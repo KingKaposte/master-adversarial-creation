@@ -1,0 +1,1501 @@
+,index,fitness,best,category,mu,input_file
+0,0,0.277633935213089,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+1,1,0.2905243933200836,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+2,2,0.27411043643951416,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+3,3,0.2979077100753784,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+4,4,0.2664085328578949,False,yes,1,0b56bcfe_nohash_2 Kopie.wav
+5,5,0.2724221348762512,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+6,6,0.3575064241886139,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+7,7,0.2764562666416168,False,yes,1,0b56bcfe_nohash_2 Kopie.wav
+8,8,0.2640930712223053,False,yes,1,0b56bcfe_nohash_2 Kopie.wav
+9,9,0.27225273847579956,False,yes,1,0b56bcfe_nohash_2 Kopie.wav
+10,10,0.25976741313934326,False,yes,1,0b56bcfe_nohash_2 Kopie.wav
+11,11,0.32866156101226807,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+12,12,0.29997652769088745,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+13,13,0.2928757071495056,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+14,14,0.2990633547306061,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+15,15,0.3285949230194092,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+16,16,0.3254902958869934,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+17,17,0.3049164116382599,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+18,18,0.3291853368282318,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+19,19,0.33974796533584595,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+20,20,0.3583037853240967,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+21,21,0.32516393065452576,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+22,22,0.34040480852127075,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+23,23,0.3758026659488678,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+24,24,0.3392767012119293,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+25,25,0.36501917243003845,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+26,26,0.37550774216651917,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+27,27,0.38244137167930603,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+28,28,0.3764972388744354,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+29,29,0.3466176688671112,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+30,30,0.3739388585090637,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+31,31,0.3338048756122589,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+32,32,0.38934147357940674,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+33,33,0.36725088953971863,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+34,34,0.36525821685791016,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+35,35,0.36803293228149414,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+36,36,0.37476933002471924,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+37,37,0.38246673345565796,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+38,38,0.3778654634952545,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+39,39,0.3725873529911041,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+40,40,0.3891565799713135,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+41,41,0.3331371545791626,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+42,42,0.3823966681957245,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+43,43,0.3462872803211212,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+44,44,0.3353857398033142,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+45,45,0.3853685259819031,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+46,46,0.3370651602745056,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+47,47,0.37696897983551025,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+48,48,0.3629869818687439,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+49,49,0.3922763764858246,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+50,50,0.39156627655029297,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+51,51,0.3822004199028015,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+52,52,0.39228400588035583,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+53,53,0.3487756848335266,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+54,54,0.3581269681453705,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+55,55,0.3844864070415497,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+56,56,0.38489827513694763,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+57,57,0.32689136266708374,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+58,58,0.3836907148361206,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+59,59,0.3632177710533142,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+60,60,0.3620435297489166,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+61,61,0.3786085546016693,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+62,62,0.39352017641067505,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+63,63,0.3874134421348572,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+64,64,0.3916669189929962,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+65,65,0.4111970067024231,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+66,66,0.3963278830051422,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+67,67,0.31456583738327026,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+68,68,0.34412679076194763,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+69,69,0.324645072221756,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+70,70,0.40496018528938293,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+71,71,0.38542547821998596,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+72,72,0.3540867567062378,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+73,73,0.39472800493240356,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+74,74,0.3811798393726349,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+75,75,0.4045322835445404,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+76,76,0.4291808009147644,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+77,77,0.39757001399993896,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+78,78,0.41172465682029724,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+79,79,0.3889142870903015,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+80,80,0.42877399921417236,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+81,81,0.3966100513935089,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+82,82,0.4440014362335205,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+83,83,0.40350207686424255,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+84,84,0.41126635670661926,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+85,85,0.41585883498191833,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+86,86,0.41951632499694824,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+87,87,0.3965061604976654,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+88,88,0.38947468996047974,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+89,89,0.43799299001693726,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+90,90,0.4428836703300476,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+91,91,0.4212442636489868,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+92,92,0.38687342405319214,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+93,93,0.4485137462615967,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+94,94,0.40693777799606323,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+95,95,0.4427776634693146,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+96,96,0.44778957962989807,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+97,97,0.4311469495296478,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+98,98,0.44501250982284546,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+99,99,0.42157232761383057,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+100,100,0.4072287380695343,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+101,101,0.42262834310531616,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+102,102,0.44539687037467957,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+103,103,0.4235360622406006,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+104,104,0.4434439539909363,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+105,105,0.4459000527858734,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+106,106,0.4526181221008301,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+107,107,0.4434203803539276,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+108,108,0.4318733513355255,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+109,109,0.44375383853912354,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+110,110,0.40319153666496277,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+111,111,0.4218369722366333,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+112,112,0.4133628010749817,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+113,113,0.42184844613075256,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+114,114,0.4512583613395691,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+115,115,0.4087832272052765,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+116,116,0.45872992277145386,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+117,117,0.436251163482666,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+118,118,0.36395347118377686,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+119,119,0.45237717032432556,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+120,120,0.44699716567993164,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+121,121,0.4063868820667267,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+122,122,0.44382423162460327,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+123,123,0.402572363615036,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+124,124,0.3969029188156128,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+125,125,0.4237769544124603,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+126,126,0.42682740092277527,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+127,127,0.4326789975166321,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+128,128,0.43233928084373474,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+129,129,0.4559120237827301,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+130,130,0.4691172242164612,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+131,131,0.4303880035877228,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+132,132,0.4620756506919861,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+133,133,0.42375972867012024,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+134,134,0.44000518321990967,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+135,135,0.45493045449256897,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+136,136,0.44783473014831543,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+137,137,0.46080613136291504,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+138,138,0.44303634762763977,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+139,139,0.4480215311050415,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+140,140,0.4590300917625427,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+141,141,0.44933339953422546,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+142,142,0.46079373359680176,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+143,143,0.4679722189903259,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+144,144,0.43018555641174316,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+145,145,0.4509178698062897,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+146,146,0.4706653356552124,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+147,147,0.4543819725513458,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+148,148,0.4534584581851959,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+149,149,0.45222577452659607,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+150,150,0.462245374917984,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+151,151,0.44697871804237366,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+152,152,0.4598582983016968,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+153,153,0.4655836224555969,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+154,154,0.41411903500556946,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+155,155,0.4448687434196472,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+156,156,0.42930421233177185,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+157,157,0.46794837713241577,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+158,158,0.47738024592399597,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+159,159,0.4650821089744568,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+160,160,0.4622384011745453,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+161,161,0.4726915955543518,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+162,162,0.44566312432289124,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+163,163,0.4385816752910614,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+164,164,0.4439588189125061,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+165,165,0.4816804826259613,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+166,166,0.4312461018562317,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+167,167,0.45635905861854553,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+168,168,0.44459742307662964,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+169,169,0.4435984790325165,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+170,170,0.4824497103691101,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+171,171,0.41376152634620667,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+172,172,0.45047950744628906,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+173,173,0.47641313076019287,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+174,174,0.48622238636016846,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+175,175,0.45982545614242554,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+176,176,0.4574601650238037,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+177,177,0.47119376063346863,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+178,178,0.47835662961006165,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+179,179,0.4708322286605835,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+180,180,0.4825720489025116,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+181,181,0.430116206407547,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+182,182,0.48066335916519165,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+183,183,0.4718683660030365,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+184,184,0.48316872119903564,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+185,185,0.48400598764419556,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+186,186,0.4662693440914154,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+187,187,0.4297453761100769,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+188,188,0.4506904184818268,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+189,189,0.4761701822280884,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+190,190,0.4840634763240814,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+191,191,0.45833030343055725,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+192,192,0.4830605387687683,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+193,193,0.4829174876213074,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+194,194,0.4328818619251251,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+195,195,0.42384421825408936,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+196,196,0.45688873529434204,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+197,197,0.4733215570449829,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+198,198,0.452633261680603,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+199,199,0.4872896671295166,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+200,200,0.4771398901939392,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+201,201,0.46053868532180786,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+202,202,0.4799743592739105,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+203,203,0.4880664050579071,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+204,204,0.4810580909252167,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+205,205,0.48142102360725403,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+206,206,0.46558645367622375,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+207,207,0.4627707898616791,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+208,208,0.48078203201293945,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+209,209,0.47550126910209656,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+210,210,0.4562850594520569,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+211,211,0.4720689058303833,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+212,212,0.48604992032051086,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+213,213,0.4500790238380432,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+214,214,0.46702146530151367,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+215,215,0.4451269209384918,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+216,216,0.4853282868862152,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+217,217,0.4653566777706146,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+218,218,0.46348440647125244,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+219,219,0.4273901879787445,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+220,220,0.47957292199134827,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+221,221,0.5021638870239258,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+222,222,0.48857709765434265,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+223,223,0.4466628134250641,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+224,224,0.4861256182193756,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+225,225,0.48314449191093445,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+226,226,0.48067978024482727,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+227,227,0.4962933361530304,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+228,228,0.4552730917930603,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+229,229,0.48167091608047485,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+230,230,0.4877671003341675,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+231,231,0.46538424491882324,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+232,232,0.4734964370727539,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+233,233,0.4631766974925995,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+234,234,0.49114468693733215,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+235,235,0.4899430572986603,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+236,236,0.4748150706291199,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+237,237,0.4869597852230072,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+238,238,0.47809702157974243,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+239,239,0.501680314540863,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+240,240,0.5011468529701233,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+241,241,0.4940553307533264,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+242,242,0.47786372900009155,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+243,243,0.502892792224884,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+244,244,0.4716658294200897,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+245,245,0.4736529588699341,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+246,246,0.5179623961448669,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+247,247,0.4691599905490875,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+248,248,0.5010337829589844,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+249,249,0.48296597599983215,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+250,250,0.5167399644851685,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+251,251,0.4910424053668976,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+252,252,0.4825734496116638,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+253,253,0.48913201689720154,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+254,254,0.49943017959594727,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+255,255,0.5076258778572083,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+256,256,0.5151165723800659,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+257,257,0.5086879730224609,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+258,258,0.4838787317276001,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+259,259,0.44213399291038513,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+260,260,0.5084729194641113,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+261,261,0.4995007812976837,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+262,262,0.5237936973571777,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+263,263,0.49261415004730225,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+264,264,0.49241408705711365,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+265,265,0.507081151008606,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+266,266,0.5107602477073669,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+267,267,0.5202491879463196,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+268,268,0.5093364119529724,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+269,269,0.5179086923599243,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+270,270,0.5189815163612366,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+271,271,0.5058205127716064,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+272,272,0.5002514123916626,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+273,273,0.5138310194015503,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+274,274,0.485882967710495,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+275,275,0.48471540212631226,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+276,276,0.4698972702026367,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+277,277,0.4925590753555298,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+278,278,0.5003660321235657,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+279,279,0.5119892358779907,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+280,280,0.5073919892311096,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+281,281,0.5139241814613342,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+282,282,0.4855027496814728,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+283,283,0.4850432276725769,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+284,284,0.5100005865097046,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+285,285,0.4913669526576996,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+286,286,0.48121073842048645,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+287,287,0.5224748849868774,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+288,288,0.4954933822154999,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+289,289,0.5068655610084534,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+290,290,0.45710742473602295,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+291,291,0.4785514175891876,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+292,292,0.4696429371833801,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+293,293,0.5170088410377502,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+294,294,0.5235410928726196,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+295,295,0.5168650150299072,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+296,296,0.5010242462158203,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+297,297,0.4418955147266388,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+298,298,0.49771222472190857,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+299,299,0.47528761625289917,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+300,300,0.5224413275718689,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+301,301,0.5194576382637024,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+302,302,0.5141753554344177,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+303,303,0.5201684236526489,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+304,304,0.5034998655319214,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+305,305,0.5229275226593018,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+306,306,0.4908404052257538,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+307,307,0.5076040029525757,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+308,308,0.47745341062545776,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+309,309,0.5088214874267578,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+310,310,0.5162020325660706,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+311,311,0.5018309950828552,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+312,312,0.5125822424888611,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+313,313,0.501686692237854,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+314,314,0.47769680619239807,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+315,315,0.5200680494308472,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+316,316,0.5152462720870972,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+317,317,0.518073558807373,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+318,318,0.41935741901397705,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+319,319,0.49951082468032837,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+320,320,0.5152131915092468,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+321,321,0.4679027795791626,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+322,322,0.502760648727417,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+323,323,0.5198664665222168,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+324,324,0.5173642635345459,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+325,325,0.5165374875068665,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+326,326,0.4274938404560089,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+327,327,0.5083498358726501,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+328,328,0.5165721774101257,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+329,329,0.4832852780818939,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+330,330,0.4894911050796509,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+331,331,0.4983246624469757,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+332,332,0.510082483291626,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+333,333,0.506698489189148,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+334,334,0.4835403561592102,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+335,335,0.5110222101211548,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+336,336,0.5017357468605042,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+337,337,0.4925349950790405,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+338,338,0.500364363193512,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+339,339,0.5139164328575134,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+340,340,0.4867916703224182,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+341,341,0.5007228851318359,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+342,342,0.5176897048950195,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+343,343,0.4772692322731018,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+344,344,0.5064695477485657,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+345,345,0.5225412249565125,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+346,346,0.4262335002422333,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+347,347,0.5102035403251648,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+348,348,0.5355990529060364,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+349,349,0.5036282539367676,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+350,350,0.5314076542854309,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+351,351,0.5192551612854004,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+352,352,0.47614872455596924,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+353,353,0.5391767621040344,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+354,354,0.5192973613739014,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+355,355,0.44778499007225037,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+356,356,0.4851589500904083,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+357,357,0.5127121806144714,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+358,358,0.5417402982711792,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+359,359,0.5157210826873779,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+360,360,0.5240779519081116,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+361,361,0.5302048325538635,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+362,362,0.5341820120811462,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+363,363,0.5259063243865967,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+364,364,0.5314261317253113,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+365,365,0.4932706952095032,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+366,366,0.516605019569397,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+367,367,0.500281572341919,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+368,368,0.5311841368675232,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+369,369,0.52186119556427,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+370,370,0.5313592553138733,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+371,371,0.5489621758460999,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+372,372,0.5161755084991455,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+373,373,0.5257406234741211,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+374,374,0.531921923160553,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+375,375,0.4804283678531647,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+376,376,0.5310516357421875,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+377,377,0.5136902928352356,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+378,378,0.5232478380203247,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+379,379,0.547324001789093,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+380,380,0.5533321499824524,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+381,381,0.5457550883293152,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+382,382,0.5268344283103943,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+383,383,0.5328396558761597,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+384,384,0.549326479434967,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+385,385,0.5320640206336975,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+386,386,0.4750147759914398,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+387,387,0.49526292085647583,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+388,388,0.5279095768928528,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+389,389,0.524510383605957,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+390,390,0.5058414936065674,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+391,391,0.5492192506790161,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+392,392,0.5389525294303894,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+393,393,0.48878350853919983,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+394,394,0.5453599691390991,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+395,395,0.49197202920913696,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+396,396,0.5516678094863892,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+397,397,0.5309155583381653,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+398,398,0.530238687992096,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+399,399,0.5555791258811951,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+400,400,0.5393534302711487,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+401,401,0.5308881402015686,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+402,402,0.5301448702812195,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+403,403,0.5294032096862793,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+404,404,0.5134128332138062,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+405,405,0.5458966493606567,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+406,406,0.5422810316085815,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+407,407,0.5202459096908569,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+408,408,0.5351548790931702,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+409,409,0.5320618152618408,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+410,410,0.5573593974113464,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+411,411,0.5336671471595764,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+412,412,0.5185185670852661,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+413,413,0.5206187963485718,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+414,414,0.5549637079238892,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+415,415,0.5383855104446411,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+416,416,0.5324722528457642,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+417,417,0.5489917993545532,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+418,418,0.5173494815826416,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+419,419,0.5206223130226135,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+420,420,0.5358861088752747,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+421,421,0.504592776298523,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+422,422,0.539924144744873,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+423,423,0.5444761514663696,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+424,424,0.5477984547615051,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+425,425,0.539945662021637,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+426,426,0.5376757383346558,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+427,427,0.548687219619751,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+428,428,0.5509078502655029,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+429,429,0.5326917767524719,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+430,430,0.5648819208145142,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+431,431,0.5472440123558044,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+432,432,0.5378183126449585,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+433,433,0.539718747138977,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+434,434,0.5195149779319763,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+435,435,0.5791527628898621,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+436,436,0.5408219695091248,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+437,437,0.527827262878418,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+438,438,0.5562735795974731,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+439,439,0.509372889995575,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+440,440,0.5261312127113342,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+441,441,0.5576140284538269,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+442,442,0.5484004616737366,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+443,443,0.5413578748703003,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+444,444,0.574679970741272,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+445,445,0.5515614151954651,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+446,446,0.5620505809783936,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+447,447,0.5809349417686462,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+448,448,0.5545079112052917,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+449,449,0.5666994452476501,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+450,450,0.5527469515800476,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+451,451,0.5336964726448059,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+452,452,0.5252035856246948,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+453,453,0.5699663758277893,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+454,454,0.573793888092041,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+455,455,0.5519555807113647,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+456,456,0.5450474619865417,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+457,457,0.5489807724952698,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+458,458,0.5667955279350281,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+459,459,0.5619221925735474,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+460,460,0.5262441039085388,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+461,461,0.5176092386245728,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+462,462,0.5530007481575012,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+463,463,0.5694848299026489,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+464,464,0.5305182933807373,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+465,465,0.5787322521209717,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+466,466,0.519919753074646,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+467,467,0.5768722295761108,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+468,468,0.5671066641807556,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+469,469,0.5277410745620728,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+470,470,0.5357998013496399,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+471,471,0.5871452689170837,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+472,472,0.5615227222442627,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+473,473,0.560917317867279,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+474,474,0.5661256313323975,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+475,475,0.5669354200363159,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+476,476,0.590735673904419,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+477,477,0.5523961186408997,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+478,478,0.567858099937439,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+479,479,0.5565323829650879,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+480,480,0.5687883496284485,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+481,481,0.5491487383842468,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+482,482,0.5705569386482239,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+483,483,0.5544224381446838,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+484,484,0.5859662294387817,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+485,485,0.5814281105995178,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+486,486,0.5080218315124512,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+487,487,0.5672307014465332,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+488,488,0.5173819661140442,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+489,489,0.5619600415229797,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+490,490,0.5794804096221924,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+491,491,0.5900270342826843,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+492,492,0.5702039003372192,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+493,493,0.538974404335022,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+494,494,0.558376669883728,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+495,495,0.5239899754524231,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+496,496,0.5693418979644775,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+497,497,0.5508801341056824,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+498,498,0.5938846468925476,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+499,499,0.5571789145469666,True,yes,1,0b56bcfe_nohash_2 Kopie.wav
+500,0,0.012331649661064148,False,yes,1,0b09edd3_nohash_0.wav
+501,1,0.017186930403113365,False,yes,1,0b09edd3_nohash_0.wav
+502,2,0.010313336737453938,False,yes,1,0b09edd3_nohash_0.wav
+503,3,0.009673068299889565,False,yes,1,0b09edd3_nohash_0.wav
+504,4,0.00996327493339777,False,yes,1,0b09edd3_nohash_0.wav
+505,5,0.019224153831601143,False,yes,1,0b09edd3_nohash_0.wav
+506,6,0.010074430145323277,False,yes,1,0b09edd3_nohash_0.wav
+507,7,0.013962426222860813,False,yes,1,0b09edd3_nohash_0.wav
+508,8,0.011881096288561821,False,yes,1,0b09edd3_nohash_0.wav
+509,9,0.011437325738370419,False,yes,1,0b09edd3_nohash_0.wav
+510,10,0.01816420815885067,False,yes,1,0b09edd3_nohash_0.wav
+511,11,0.02229374833405018,False,yes,1,0b09edd3_nohash_0.wav
+512,12,0.02012684941291809,False,yes,1,0b09edd3_nohash_0.wav
+513,13,0.01686771772801876,False,yes,1,0b09edd3_nohash_0.wav
+514,14,0.018658753484487534,False,yes,1,0b09edd3_nohash_0.wav
+515,15,0.02627585269510746,False,yes,1,0b09edd3_nohash_0.wav
+516,16,0.022633003070950508,False,yes,1,0b09edd3_nohash_0.wav
+517,17,0.026264943182468414,False,yes,1,0b09edd3_nohash_0.wav
+518,18,0.025182446464896202,False,yes,1,0b09edd3_nohash_0.wav
+519,19,0.01907920651137829,False,yes,1,0b09edd3_nohash_0.wav
+520,20,0.027808958664536476,False,yes,1,0b09edd3_nohash_0.wav
+521,21,0.024863971397280693,False,yes,1,0b09edd3_nohash_0.wav
+522,22,0.017551202327013016,False,yes,1,0b09edd3_nohash_0.wav
+523,23,0.027193313464522362,False,yes,1,0b09edd3_nohash_0.wav
+524,24,0.024023685604333878,False,yes,1,0b09edd3_nohash_0.wav
+525,25,0.03383193537592888,False,yes,1,0b09edd3_nohash_0.wav
+526,26,0.03290398418903351,False,yes,1,0b09edd3_nohash_0.wav
+527,27,0.029484812170267105,False,yes,1,0b09edd3_nohash_0.wav
+528,28,0.028255725279450417,False,yes,1,0b09edd3_nohash_0.wav
+529,29,0.02935810014605522,False,yes,1,0b09edd3_nohash_0.wav
+530,30,0.032861582934856415,False,yes,1,0b09edd3_nohash_0.wav
+531,31,0.03490706905722618,False,yes,1,0b09edd3_nohash_0.wav
+532,32,0.02598438784480095,False,yes,1,0b09edd3_nohash_0.wav
+533,33,0.02380661480128765,False,yes,1,0b09edd3_nohash_0.wav
+534,34,0.03429386764764786,False,yes,1,0b09edd3_nohash_0.wav
+535,35,0.03527538478374481,False,yes,1,0b09edd3_nohash_0.wav
+536,36,0.029179010540246964,False,yes,1,0b09edd3_nohash_0.wav
+537,37,0.036429427564144135,False,yes,1,0b09edd3_nohash_0.wav
+538,38,0.030835531651973724,False,yes,1,0b09edd3_nohash_0.wav
+539,39,0.03424802049994469,False,yes,1,0b09edd3_nohash_0.wav
+540,40,0.03123130463063717,False,yes,1,0b09edd3_nohash_0.wav
+541,41,0.032558608800172806,False,yes,1,0b09edd3_nohash_0.wav
+542,42,0.03514299914240837,False,yes,1,0b09edd3_nohash_0.wav
+543,43,0.03455806523561478,False,yes,1,0b09edd3_nohash_0.wav
+544,44,0.030344350263476372,False,yes,1,0b09edd3_nohash_0.wav
+545,45,0.035604678094387054,False,yes,1,0b09edd3_nohash_0.wav
+546,46,0.03930799290537834,False,yes,1,0b09edd3_nohash_0.wav
+547,47,0.034111835062503815,False,yes,1,0b09edd3_nohash_0.wav
+548,48,0.029693519696593285,False,yes,1,0b09edd3_nohash_0.wav
+549,49,0.03649185970425606,False,yes,1,0b09edd3_nohash_0.wav
+550,50,0.03896517679095268,False,yes,1,0b09edd3_nohash_0.wav
+551,51,0.034523773938417435,False,yes,1,0b09edd3_nohash_0.wav
+552,52,0.03685304895043373,False,yes,1,0b09edd3_nohash_0.wav
+553,53,0.040387555956840515,False,yes,1,0b09edd3_nohash_0.wav
+554,54,0.04051164537668228,False,yes,1,0b09edd3_nohash_0.wav
+555,55,0.04083596542477608,False,yes,1,0b09edd3_nohash_0.wav
+556,56,0.038530729711055756,False,yes,1,0b09edd3_nohash_0.wav
+557,57,0.038870569318532944,False,yes,1,0b09edd3_nohash_0.wav
+558,58,0.04317674785852432,False,yes,1,0b09edd3_nohash_0.wav
+559,59,0.0372062586247921,False,yes,1,0b09edd3_nohash_0.wav
+560,60,0.04303095489740372,False,yes,1,0b09edd3_nohash_0.wav
+561,61,0.03983040153980255,False,yes,1,0b09edd3_nohash_0.wav
+562,62,0.03008829802274704,False,yes,1,0b09edd3_nohash_0.wav
+563,63,0.04691513627767563,False,yes,1,0b09edd3_nohash_0.wav
+564,64,0.03181428462266922,False,yes,1,0b09edd3_nohash_0.wav
+565,65,0.046898260712623596,False,yes,1,0b09edd3_nohash_0.wav
+566,66,0.026408668607473373,False,yes,1,0b09edd3_nohash_0.wav
+567,67,0.045662011951208115,False,yes,1,0b09edd3_nohash_0.wav
+568,68,0.05527506023645401,False,yes,1,0b09edd3_nohash_0.wav
+569,69,0.040627650916576385,False,yes,1,0b09edd3_nohash_0.wav
+570,70,0.04995742812752724,False,yes,1,0b09edd3_nohash_0.wav
+571,71,0.05027983337640762,False,yes,1,0b09edd3_nohash_0.wav
+572,72,0.04265505447983742,False,yes,1,0b09edd3_nohash_0.wav
+573,73,0.040099598467350006,False,yes,1,0b09edd3_nohash_0.wav
+574,74,0.04401826858520508,False,yes,1,0b09edd3_nohash_0.wav
+575,75,0.05391356348991394,False,yes,1,0b09edd3_nohash_0.wav
+576,76,0.04658010974526405,False,yes,1,0b09edd3_nohash_0.wav
+577,77,0.04863649979233742,False,yes,1,0b09edd3_nohash_0.wav
+578,78,0.05214868485927582,False,yes,1,0b09edd3_nohash_0.wav
+579,79,0.04515477642416954,False,yes,1,0b09edd3_nohash_0.wav
+580,80,0.056639593094587326,False,yes,1,0b09edd3_nohash_0.wav
+581,81,0.0497596375644207,False,yes,1,0b09edd3_nohash_0.wav
+582,82,0.05576489865779877,False,yes,1,0b09edd3_nohash_0.wav
+583,83,0.057190220803022385,False,yes,1,0b09edd3_nohash_0.wav
+584,84,0.047583334147930145,False,yes,1,0b09edd3_nohash_0.wav
+585,85,0.047634758055210114,False,yes,1,0b09edd3_nohash_0.wav
+586,86,0.06160691753029823,False,yes,1,0b09edd3_nohash_0.wav
+587,87,0.04664439335465431,False,yes,1,0b09edd3_nohash_0.wav
+588,88,0.056350745260715485,False,yes,1,0b09edd3_nohash_0.wav
+589,89,0.049408867955207825,False,yes,1,0b09edd3_nohash_0.wav
+590,90,0.058844245970249176,False,yes,1,0b09edd3_nohash_0.wav
+591,91,0.06284474581480026,False,yes,1,0b09edd3_nohash_0.wav
+592,92,0.05054137110710144,False,yes,1,0b09edd3_nohash_0.wav
+593,93,0.06222686916589737,False,yes,1,0b09edd3_nohash_0.wav
+594,94,0.06534748524427414,False,yes,1,0b09edd3_nohash_0.wav
+595,95,0.06260297447443008,False,yes,1,0b09edd3_nohash_0.wav
+596,96,0.06307760626077652,False,yes,1,0b09edd3_nohash_0.wav
+597,97,0.05599602684378624,False,yes,1,0b09edd3_nohash_0.wav
+598,98,0.05959929898381233,False,yes,1,0b09edd3_nohash_0.wav
+599,99,0.06309589743614197,False,yes,1,0b09edd3_nohash_0.wav
+600,100,0.04974767565727234,False,yes,1,0b09edd3_nohash_0.wav
+601,101,0.04536285251379013,False,yes,1,0b09edd3_nohash_0.wav
+602,102,0.06250516325235367,False,yes,1,0b09edd3_nohash_0.wav
+603,103,0.05578591302037239,False,yes,1,0b09edd3_nohash_0.wav
+604,104,0.06452341377735138,False,yes,1,0b09edd3_nohash_0.wav
+605,105,0.06577907502651215,False,yes,1,0b09edd3_nohash_0.wav
+606,106,0.06402416527271271,False,yes,1,0b09edd3_nohash_0.wav
+607,107,0.06406652182340622,False,yes,1,0b09edd3_nohash_0.wav
+608,108,0.0619020015001297,False,yes,1,0b09edd3_nohash_0.wav
+609,109,0.06361214071512222,False,yes,1,0b09edd3_nohash_0.wav
+610,110,0.06547246128320694,False,yes,1,0b09edd3_nohash_0.wav
+611,111,0.05876858904957771,False,yes,1,0b09edd3_nohash_0.wav
+612,112,0.05641666427254677,False,yes,1,0b09edd3_nohash_0.wav
+613,113,0.0690014511346817,False,yes,1,0b09edd3_nohash_0.wav
+614,114,0.07313021272420883,False,yes,1,0b09edd3_nohash_0.wav
+615,115,0.06277497857809067,False,yes,1,0b09edd3_nohash_0.wav
+616,116,0.061811890453100204,False,yes,1,0b09edd3_nohash_0.wav
+617,117,0.06944245845079422,False,yes,1,0b09edd3_nohash_0.wav
+618,118,0.06962640583515167,False,yes,1,0b09edd3_nohash_0.wav
+619,119,0.06265681982040405,False,yes,1,0b09edd3_nohash_0.wav
+620,120,0.060519032180309296,False,yes,1,0b09edd3_nohash_0.wav
+621,121,0.07021002471446991,False,yes,1,0b09edd3_nohash_0.wav
+622,122,0.06318739801645279,False,yes,1,0b09edd3_nohash_0.wav
+623,123,0.06751419603824615,False,yes,1,0b09edd3_nohash_0.wav
+624,124,0.06769204884767532,False,yes,1,0b09edd3_nohash_0.wav
+625,125,0.07247408479452133,False,yes,1,0b09edd3_nohash_0.wav
+626,126,0.05382745340466499,False,yes,1,0b09edd3_nohash_0.wav
+627,127,0.07708048075437546,False,yes,1,0b09edd3_nohash_0.wav
+628,128,0.07282813638448715,False,yes,1,0b09edd3_nohash_0.wav
+629,129,0.07359809428453445,False,yes,1,0b09edd3_nohash_0.wav
+630,130,0.06816209107637405,False,yes,1,0b09edd3_nohash_0.wav
+631,131,0.06399566680192947,False,yes,1,0b09edd3_nohash_0.wav
+632,132,0.07298698276281357,False,yes,1,0b09edd3_nohash_0.wav
+633,133,0.06915131211280823,False,yes,1,0b09edd3_nohash_0.wav
+634,134,0.07599252462387085,False,yes,1,0b09edd3_nohash_0.wav
+635,135,0.07646512240171432,False,yes,1,0b09edd3_nohash_0.wav
+636,136,0.06471435725688934,False,yes,1,0b09edd3_nohash_0.wav
+637,137,0.05796544626355171,False,yes,1,0b09edd3_nohash_0.wav
+638,138,0.06073295697569847,False,yes,1,0b09edd3_nohash_0.wav
+639,139,0.07443153113126755,False,yes,1,0b09edd3_nohash_0.wav
+640,140,0.07092781364917755,False,yes,1,0b09edd3_nohash_0.wav
+641,141,0.06126943230628967,False,yes,1,0b09edd3_nohash_0.wav
+642,142,0.06258275359869003,False,yes,1,0b09edd3_nohash_0.wav
+643,143,0.07162279635667801,False,yes,1,0b09edd3_nohash_0.wav
+644,144,0.07250318676233292,False,yes,1,0b09edd3_nohash_0.wav
+645,145,0.07440031319856644,False,yes,1,0b09edd3_nohash_0.wav
+646,146,0.07949354499578476,False,yes,1,0b09edd3_nohash_0.wav
+647,147,0.07152752578258514,False,yes,1,0b09edd3_nohash_0.wav
+648,148,0.07714702188968658,False,yes,1,0b09edd3_nohash_0.wav
+649,149,0.07501612603664398,False,yes,1,0b09edd3_nohash_0.wav
+650,150,0.05868203938007355,False,yes,1,0b09edd3_nohash_0.wav
+651,151,0.07721598446369171,False,yes,1,0b09edd3_nohash_0.wav
+652,152,0.06483644992113113,False,yes,1,0b09edd3_nohash_0.wav
+653,153,0.07360058277845383,False,yes,1,0b09edd3_nohash_0.wav
+654,154,0.07689188420772552,False,yes,1,0b09edd3_nohash_0.wav
+655,155,0.06832701712846756,False,yes,1,0b09edd3_nohash_0.wav
+656,156,0.07403888553380966,False,yes,1,0b09edd3_nohash_0.wav
+657,157,0.08727913349866867,False,yes,1,0b09edd3_nohash_0.wav
+658,158,0.0595511868596077,False,yes,1,0b09edd3_nohash_0.wav
+659,159,0.07324410229921341,False,yes,1,0b09edd3_nohash_0.wav
+660,160,0.08352649211883545,False,yes,1,0b09edd3_nohash_0.wav
+661,161,0.07480435073375702,False,yes,1,0b09edd3_nohash_0.wav
+662,162,0.08723235130310059,False,yes,1,0b09edd3_nohash_0.wav
+663,163,0.09556116163730621,False,yes,1,0b09edd3_nohash_0.wav
+664,164,0.07840016484260559,False,yes,1,0b09edd3_nohash_0.wav
+665,165,0.0911799892783165,False,yes,1,0b09edd3_nohash_0.wav
+666,166,0.07260160148143768,False,yes,1,0b09edd3_nohash_0.wav
+667,167,0.07373818010091782,False,yes,1,0b09edd3_nohash_0.wav
+668,168,0.08908005803823471,False,yes,1,0b09edd3_nohash_0.wav
+669,169,0.08176746964454651,False,yes,1,0b09edd3_nohash_0.wav
+670,170,0.08909466117620468,False,yes,1,0b09edd3_nohash_0.wav
+671,171,0.07262273877859116,False,yes,1,0b09edd3_nohash_0.wav
+672,172,0.08859038352966309,False,yes,1,0b09edd3_nohash_0.wav
+673,173,0.09326931834220886,False,yes,1,0b09edd3_nohash_0.wav
+674,174,0.08825502544641495,False,yes,1,0b09edd3_nohash_0.wav
+675,175,0.08997304737567902,False,yes,1,0b09edd3_nohash_0.wav
+676,176,0.08961562067270279,False,yes,1,0b09edd3_nohash_0.wav
+677,177,0.08359421789646149,False,yes,1,0b09edd3_nohash_0.wav
+678,178,0.08420627564191818,False,yes,1,0b09edd3_nohash_0.wav
+679,179,0.09468492120504379,False,yes,1,0b09edd3_nohash_0.wav
+680,180,0.08436445146799088,False,yes,1,0b09edd3_nohash_0.wav
+681,181,0.08741931617259979,False,yes,1,0b09edd3_nohash_0.wav
+682,182,0.0819738358259201,False,yes,1,0b09edd3_nohash_0.wav
+683,183,0.0908183827996254,False,yes,1,0b09edd3_nohash_0.wav
+684,184,0.08310213685035706,False,yes,1,0b09edd3_nohash_0.wav
+685,185,0.0908953845500946,False,yes,1,0b09edd3_nohash_0.wav
+686,186,0.09079674631357193,False,yes,1,0b09edd3_nohash_0.wav
+687,187,0.09482908993959427,False,yes,1,0b09edd3_nohash_0.wav
+688,188,0.09315694123506546,False,yes,1,0b09edd3_nohash_0.wav
+689,189,0.08927953988313675,False,yes,1,0b09edd3_nohash_0.wav
+690,190,0.09481170028448105,False,yes,1,0b09edd3_nohash_0.wav
+691,191,0.07061348110437393,False,yes,1,0b09edd3_nohash_0.wav
+692,192,0.08445225656032562,False,yes,1,0b09edd3_nohash_0.wav
+693,193,0.09532973915338516,False,yes,1,0b09edd3_nohash_0.wav
+694,194,0.09291978180408478,False,yes,1,0b09edd3_nohash_0.wav
+695,195,0.09350074827671051,False,yes,1,0b09edd3_nohash_0.wav
+696,196,0.08912510424852371,False,yes,1,0b09edd3_nohash_0.wav
+697,197,0.09369254112243652,False,yes,1,0b09edd3_nohash_0.wav
+698,198,0.10519794374704361,False,yes,1,0b09edd3_nohash_0.wav
+699,199,0.09239868074655533,False,yes,1,0b09edd3_nohash_0.wav
+700,200,0.09539979696273804,False,yes,1,0b09edd3_nohash_0.wav
+701,201,0.09314622730016708,False,yes,1,0b09edd3_nohash_0.wav
+702,202,0.09916611760854721,False,yes,1,0b09edd3_nohash_0.wav
+703,203,0.10028763860464096,False,yes,1,0b09edd3_nohash_0.wav
+704,204,0.08131109178066254,False,yes,1,0b09edd3_nohash_0.wav
+705,205,0.09305901825428009,False,yes,1,0b09edd3_nohash_0.wav
+706,206,0.09839629381895065,False,yes,1,0b09edd3_nohash_0.wav
+707,207,0.10331760346889496,False,yes,1,0b09edd3_nohash_0.wav
+708,208,0.09690836071968079,False,yes,1,0b09edd3_nohash_0.wav
+709,209,0.08917294442653656,False,yes,1,0b09edd3_nohash_0.wav
+710,210,0.095662921667099,False,yes,1,0b09edd3_nohash_0.wav
+711,211,0.09667278826236725,False,yes,1,0b09edd3_nohash_0.wav
+712,212,0.09746651351451874,False,yes,1,0b09edd3_nohash_0.wav
+713,213,0.10209975391626358,False,yes,1,0b09edd3_nohash_0.wav
+714,214,0.10614942014217377,False,yes,1,0b09edd3_nohash_0.wav
+715,215,0.10664323717355728,False,yes,1,0b09edd3_nohash_0.wav
+716,216,0.10337845981121063,False,yes,1,0b09edd3_nohash_0.wav
+717,217,0.10684159398078918,False,yes,1,0b09edd3_nohash_0.wav
+718,218,0.09442533552646637,False,yes,1,0b09edd3_nohash_0.wav
+719,219,0.09136965125799179,False,yes,1,0b09edd3_nohash_0.wav
+720,220,0.10042303800582886,False,yes,1,0b09edd3_nohash_0.wav
+721,221,0.11251261085271835,False,yes,1,0b09edd3_nohash_0.wav
+722,222,0.09576044976711273,False,yes,1,0b09edd3_nohash_0.wav
+723,223,0.09763115644454956,False,yes,1,0b09edd3_nohash_0.wav
+724,224,0.10313157737255096,False,yes,1,0b09edd3_nohash_0.wav
+725,225,0.10762518644332886,False,yes,1,0b09edd3_nohash_0.wav
+726,226,0.09737761318683624,False,yes,1,0b09edd3_nohash_0.wav
+727,227,0.08499693870544434,False,yes,1,0b09edd3_nohash_0.wav
+728,228,0.10505373030900955,False,yes,1,0b09edd3_nohash_0.wav
+729,229,0.10795610398054123,False,yes,1,0b09edd3_nohash_0.wav
+730,230,0.08304302394390106,False,yes,1,0b09edd3_nohash_0.wav
+731,231,0.10835056006908417,False,yes,1,0b09edd3_nohash_0.wav
+732,232,0.10353779047727585,False,yes,1,0b09edd3_nohash_0.wav
+733,233,0.08069832623004913,False,yes,1,0b09edd3_nohash_0.wav
+734,234,0.10345448553562164,False,yes,1,0b09edd3_nohash_0.wav
+735,235,0.10180042684078217,False,yes,1,0b09edd3_nohash_0.wav
+736,236,0.11863700300455093,False,yes,1,0b09edd3_nohash_0.wav
+737,237,0.09539055079221725,False,yes,1,0b09edd3_nohash_0.wav
+738,238,0.10974057763814926,False,yes,1,0b09edd3_nohash_0.wav
+739,239,0.09710456430912018,False,yes,1,0b09edd3_nohash_0.wav
+740,240,0.09941040724515915,False,yes,1,0b09edd3_nohash_0.wav
+741,241,0.11780543625354767,False,yes,1,0b09edd3_nohash_0.wav
+742,242,0.10603306442499161,False,yes,1,0b09edd3_nohash_0.wav
+743,243,0.11984986066818237,False,yes,1,0b09edd3_nohash_0.wav
+744,244,0.10396386682987213,False,yes,1,0b09edd3_nohash_0.wav
+745,245,0.11110855638980865,False,yes,1,0b09edd3_nohash_0.wav
+746,246,0.1159294843673706,False,yes,1,0b09edd3_nohash_0.wav
+747,247,0.12368789315223694,False,yes,1,0b09edd3_nohash_0.wav
+748,248,0.1107940748333931,False,yes,1,0b09edd3_nohash_0.wav
+749,249,0.11556610465049744,False,yes,1,0b09edd3_nohash_0.wav
+750,250,0.09840468317270279,False,yes,1,0b09edd3_nohash_0.wav
+751,251,0.10721073299646378,False,yes,1,0b09edd3_nohash_0.wav
+752,252,0.10975902527570724,False,yes,1,0b09edd3_nohash_0.wav
+753,253,0.09356994181871414,False,yes,1,0b09edd3_nohash_0.wav
+754,254,0.11034458130598068,False,yes,1,0b09edd3_nohash_0.wav
+755,255,0.119773730635643,False,yes,1,0b09edd3_nohash_0.wav
+756,256,0.08742132037878036,False,yes,1,0b09edd3_nohash_0.wav
+757,257,0.11796198040246964,False,yes,1,0b09edd3_nohash_0.wav
+758,258,0.10328677296638489,False,yes,1,0b09edd3_nohash_0.wav
+759,259,0.11534508317708969,False,yes,1,0b09edd3_nohash_0.wav
+760,260,0.11710771918296814,False,yes,1,0b09edd3_nohash_0.wav
+761,261,0.11844214797019958,False,yes,1,0b09edd3_nohash_0.wav
+762,262,0.12847423553466797,False,yes,1,0b09edd3_nohash_0.wav
+763,263,0.11440228670835495,False,yes,1,0b09edd3_nohash_0.wav
+764,264,0.11210858821868896,False,yes,1,0b09edd3_nohash_0.wav
+765,265,0.108365498483181,False,yes,1,0b09edd3_nohash_0.wav
+766,266,0.11286288499832153,False,yes,1,0b09edd3_nohash_0.wav
+767,267,0.1258271038532257,False,yes,1,0b09edd3_nohash_0.wav
+768,268,0.11075181514024734,False,yes,1,0b09edd3_nohash_0.wav
+769,269,0.08853689581155777,False,yes,1,0b09edd3_nohash_0.wav
+770,270,0.0984620600938797,False,yes,1,0b09edd3_nohash_0.wav
+771,271,0.12385004013776779,False,yes,1,0b09edd3_nohash_0.wav
+772,272,0.12544256448745728,False,yes,1,0b09edd3_nohash_0.wav
+773,273,0.1303720921278,False,yes,1,0b09edd3_nohash_0.wav
+774,274,0.13216440379619598,False,yes,1,0b09edd3_nohash_0.wav
+775,275,0.12554487586021423,False,yes,1,0b09edd3_nohash_0.wav
+776,276,0.12319491803646088,False,yes,1,0b09edd3_nohash_0.wav
+777,277,0.12180832773447037,False,yes,1,0b09edd3_nohash_0.wav
+778,278,0.11717990785837173,False,yes,1,0b09edd3_nohash_0.wav
+779,279,0.1303720921278,False,yes,1,0b09edd3_nohash_0.wav
+780,280,0.10151979327201843,False,yes,1,0b09edd3_nohash_0.wav
+781,281,0.13471698760986328,False,yes,1,0b09edd3_nohash_0.wav
+782,282,0.13660171627998352,False,yes,1,0b09edd3_nohash_0.wav
+783,283,0.12776604294776917,False,yes,1,0b09edd3_nohash_0.wav
+784,284,0.1301601231098175,False,yes,1,0b09edd3_nohash_0.wav
+785,285,0.14490889012813568,False,yes,1,0b09edd3_nohash_0.wav
+786,286,0.12819962203502655,False,yes,1,0b09edd3_nohash_0.wav
+787,287,0.13636304438114166,False,yes,1,0b09edd3_nohash_0.wav
+788,288,0.13133740425109863,False,yes,1,0b09edd3_nohash_0.wav
+789,289,0.12310593575239182,False,yes,1,0b09edd3_nohash_0.wav
+790,290,0.1465059071779251,False,yes,1,0b09edd3_nohash_0.wav
+791,291,0.1366150826215744,False,yes,1,0b09edd3_nohash_0.wav
+792,292,0.13272343575954437,False,yes,1,0b09edd3_nohash_0.wav
+793,293,0.1324838548898697,False,yes,1,0b09edd3_nohash_0.wav
+794,294,0.11561945825815201,False,yes,1,0b09edd3_nohash_0.wav
+795,295,0.14960525929927826,False,yes,1,0b09edd3_nohash_0.wav
+796,296,0.13878914713859558,False,yes,1,0b09edd3_nohash_0.wav
+797,297,0.1260625272989273,False,yes,1,0b09edd3_nohash_0.wav
+798,298,0.12617434561252594,False,yes,1,0b09edd3_nohash_0.wav
+799,299,0.13230857253074646,False,yes,1,0b09edd3_nohash_0.wav
+800,300,0.1530992090702057,False,yes,1,0b09edd3_nohash_0.wav
+801,301,0.14051048457622528,False,yes,1,0b09edd3_nohash_0.wav
+802,302,0.12385177612304688,False,yes,1,0b09edd3_nohash_0.wav
+803,303,0.13586482405662537,False,yes,1,0b09edd3_nohash_0.wav
+804,304,0.1462511122226715,False,yes,1,0b09edd3_nohash_0.wav
+805,305,0.14196594059467316,False,yes,1,0b09edd3_nohash_0.wav
+806,306,0.14433220028877258,False,yes,1,0b09edd3_nohash_0.wav
+807,307,0.12656040489673615,False,yes,1,0b09edd3_nohash_0.wav
+808,308,0.1491534560918808,False,yes,1,0b09edd3_nohash_0.wav
+809,309,0.1490885466337204,False,yes,1,0b09edd3_nohash_0.wav
+810,310,0.14586536586284637,False,yes,1,0b09edd3_nohash_0.wav
+811,311,0.14622268080711365,False,yes,1,0b09edd3_nohash_0.wav
+812,312,0.15588341653347015,False,yes,1,0b09edd3_nohash_0.wav
+813,313,0.15496321022510529,False,yes,1,0b09edd3_nohash_0.wav
+814,314,0.15574973821640015,False,yes,1,0b09edd3_nohash_0.wav
+815,315,0.16261495649814606,False,yes,1,0b09edd3_nohash_0.wav
+816,316,0.14170299470424652,False,yes,1,0b09edd3_nohash_0.wav
+817,317,0.1567946821451187,False,yes,1,0b09edd3_nohash_0.wav
+818,318,0.14818024635314941,False,yes,1,0b09edd3_nohash_0.wav
+819,319,0.14484336972236633,False,yes,1,0b09edd3_nohash_0.wav
+820,320,0.16780425608158112,False,yes,1,0b09edd3_nohash_0.wav
+821,321,0.16519442200660706,False,yes,1,0b09edd3_nohash_0.wav
+822,322,0.15910333395004272,False,yes,1,0b09edd3_nohash_0.wav
+823,323,0.151725172996521,False,yes,1,0b09edd3_nohash_0.wav
+824,324,0.16000999510288239,False,yes,1,0b09edd3_nohash_0.wav
+825,325,0.16925418376922607,False,yes,1,0b09edd3_nohash_0.wav
+826,326,0.1654815524816513,False,yes,1,0b09edd3_nohash_0.wav
+827,327,0.15815342962741852,False,yes,1,0b09edd3_nohash_0.wav
+828,328,0.18178731203079224,False,yes,1,0b09edd3_nohash_0.wav
+829,329,0.1579820066690445,False,yes,1,0b09edd3_nohash_0.wav
+830,330,0.15879720449447632,False,yes,1,0b09edd3_nohash_0.wav
+831,331,0.179295152425766,False,yes,1,0b09edd3_nohash_0.wav
+832,332,0.17015665769577026,False,yes,1,0b09edd3_nohash_0.wav
+833,333,0.17312894761562347,False,yes,1,0b09edd3_nohash_0.wav
+834,334,0.1750495880842209,False,yes,1,0b09edd3_nohash_0.wav
+835,335,0.17169180512428284,False,yes,1,0b09edd3_nohash_0.wav
+836,336,0.1765928715467453,False,yes,1,0b09edd3_nohash_0.wav
+837,337,0.18014797568321228,False,yes,1,0b09edd3_nohash_0.wav
+838,338,0.1402127891778946,False,yes,1,0b09edd3_nohash_0.wav
+839,339,0.18347114324569702,False,yes,1,0b09edd3_nohash_0.wav
+840,340,0.18941110372543335,False,yes,1,0b09edd3_nohash_0.wav
+841,341,0.18048278987407684,False,yes,1,0b09edd3_nohash_0.wav
+842,342,0.17172910273075104,False,yes,1,0b09edd3_nohash_0.wav
+843,343,0.18214482069015503,False,yes,1,0b09edd3_nohash_0.wav
+844,344,0.16759638488292694,False,yes,1,0b09edd3_nohash_0.wav
+845,345,0.19408175349235535,False,yes,1,0b09edd3_nohash_0.wav
+846,346,0.18681631982326508,False,yes,1,0b09edd3_nohash_0.wav
+847,347,0.1905977576971054,False,yes,1,0b09edd3_nohash_0.wav
+848,348,0.18148943781852722,False,yes,1,0b09edd3_nohash_0.wav
+849,349,0.1841125786304474,False,yes,1,0b09edd3_nohash_0.wav
+850,350,0.18731515109539032,False,yes,1,0b09edd3_nohash_0.wav
+851,351,0.1938166618347168,False,yes,1,0b09edd3_nohash_0.wav
+852,352,0.178705096244812,False,yes,1,0b09edd3_nohash_0.wav
+853,353,0.19855709373950958,False,yes,1,0b09edd3_nohash_0.wav
+854,354,0.18526139855384827,False,yes,1,0b09edd3_nohash_0.wav
+855,355,0.19428296387195587,False,yes,1,0b09edd3_nohash_0.wav
+856,356,0.18622320890426636,False,yes,1,0b09edd3_nohash_0.wav
+857,357,0.1973097175359726,False,yes,1,0b09edd3_nohash_0.wav
+858,358,0.18972375988960266,False,yes,1,0b09edd3_nohash_0.wav
+859,359,0.14934493601322174,False,yes,1,0b09edd3_nohash_0.wav
+860,360,0.19608785212039948,False,yes,1,0b09edd3_nohash_0.wav
+861,361,0.20311661064624786,False,yes,1,0b09edd3_nohash_0.wav
+862,362,0.19716720283031464,False,yes,1,0b09edd3_nohash_0.wav
+863,363,0.18120914697647095,False,yes,1,0b09edd3_nohash_0.wav
+864,364,0.18832316994667053,False,yes,1,0b09edd3_nohash_0.wav
+865,365,0.20709599554538727,False,yes,1,0b09edd3_nohash_0.wav
+866,366,0.17842751741409302,False,yes,1,0b09edd3_nohash_0.wav
+867,367,0.20104438066482544,False,yes,1,0b09edd3_nohash_0.wav
+868,368,0.19078737497329712,False,yes,1,0b09edd3_nohash_0.wav
+869,369,0.19778449833393097,False,yes,1,0b09edd3_nohash_0.wav
+870,370,0.19535525143146515,False,yes,1,0b09edd3_nohash_0.wav
+871,371,0.20073744654655457,False,yes,1,0b09edd3_nohash_0.wav
+872,372,0.22092774510383606,True,yes,1,0b09edd3_nohash_0.wav
+873,373,0.20151405036449432,False,yes,1,0b09edd3_nohash_0.wav
+874,374,0.1891973912715912,False,yes,1,0b09edd3_nohash_0.wav
+875,375,0.20059412717819214,False,yes,1,0b09edd3_nohash_0.wav
+876,376,0.20679759979248047,False,yes,1,0b09edd3_nohash_0.wav
+877,377,0.21947762370109558,True,yes,1,0b09edd3_nohash_0.wav
+878,378,0.21734599769115448,True,yes,1,0b09edd3_nohash_0.wav
+879,379,0.1981118768453598,False,yes,1,0b09edd3_nohash_0.wav
+880,380,0.21764086186885834,False,yes,1,0b09edd3_nohash_0.wav
+881,381,0.21702170372009277,False,yes,1,0b09edd3_nohash_0.wav
+882,382,0.21146774291992188,False,yes,1,0b09edd3_nohash_0.wav
+883,383,0.21832573413848877,False,yes,1,0b09edd3_nohash_0.wav
+884,384,0.2113332599401474,False,yes,1,0b09edd3_nohash_0.wav
+885,385,0.21337702870368958,False,yes,1,0b09edd3_nohash_0.wav
+886,386,0.21762032806873322,True,yes,1,0b09edd3_nohash_0.wav
+887,387,0.2189234346151352,False,yes,1,0b09edd3_nohash_0.wav
+888,388,0.2178265005350113,False,yes,1,0b09edd3_nohash_0.wav
+889,389,0.23211905360221863,True,yes,1,0b09edd3_nohash_0.wav
+890,390,0.2351004034280777,True,yes,1,0b09edd3_nohash_0.wav
+891,391,0.21312570571899414,False,yes,1,0b09edd3_nohash_0.wav
+892,392,0.21084582805633545,False,yes,1,0b09edd3_nohash_0.wav
+893,393,0.2178453952074051,False,yes,1,0b09edd3_nohash_0.wav
+894,394,0.23057083785533905,True,yes,1,0b09edd3_nohash_0.wav
+895,395,0.22761836647987366,True,yes,1,0b09edd3_nohash_0.wav
+896,396,0.2251044362783432,True,yes,1,0b09edd3_nohash_0.wav
+897,397,0.19715310633182526,False,yes,1,0b09edd3_nohash_0.wav
+898,398,0.2256259322166443,True,yes,1,0b09edd3_nohash_0.wav
+899,399,0.22958751022815704,True,yes,1,0b09edd3_nohash_0.wav
+900,400,0.22406105697155,False,yes,1,0b09edd3_nohash_0.wav
+901,401,0.23012574017047882,True,yes,1,0b09edd3_nohash_0.wav
+902,402,0.22304077446460724,True,yes,1,0b09edd3_nohash_0.wav
+903,403,0.22838465869426727,True,yes,1,0b09edd3_nohash_0.wav
+904,404,0.24555696547031403,True,yes,1,0b09edd3_nohash_0.wav
+905,405,0.22036415338516235,False,yes,1,0b09edd3_nohash_0.wav
+906,406,0.20073539018630981,False,yes,1,0b09edd3_nohash_0.wav
+907,407,0.23885905742645264,True,yes,1,0b09edd3_nohash_0.wav
+908,408,0.23469644784927368,True,yes,1,0b09edd3_nohash_0.wav
+909,409,0.2445800006389618,True,yes,1,0b09edd3_nohash_0.wav
+910,410,0.23795203864574432,True,yes,1,0b09edd3_nohash_0.wav
+911,411,0.23642873764038086,True,yes,1,0b09edd3_nohash_0.wav
+912,412,0.23433871567249298,True,yes,1,0b09edd3_nohash_0.wav
+913,413,0.20989708602428436,False,yes,1,0b09edd3_nohash_0.wav
+914,414,0.23653049767017365,True,yes,1,0b09edd3_nohash_0.wav
+915,415,0.23915624618530273,True,yes,1,0b09edd3_nohash_0.wav
+916,416,0.23071037232875824,False,yes,1,0b09edd3_nohash_0.wav
+917,417,0.24700160324573517,True,yes,1,0b09edd3_nohash_0.wav
+918,418,0.23088863492012024,True,yes,1,0b09edd3_nohash_0.wav
+919,419,0.25610116124153137,True,yes,1,0b09edd3_nohash_0.wav
+920,420,0.23584145307540894,True,yes,1,0b09edd3_nohash_0.wav
+921,421,0.253213495016098,True,yes,1,0b09edd3_nohash_0.wav
+922,422,0.2552995979785919,True,yes,1,0b09edd3_nohash_0.wav
+923,423,0.23959483206272125,True,yes,1,0b09edd3_nohash_0.wav
+924,424,0.20709985494613647,False,yes,1,0b09edd3_nohash_0.wav
+925,425,0.27482903003692627,True,yes,1,0b09edd3_nohash_0.wav
+926,426,0.19562818109989166,False,yes,1,0b09edd3_nohash_0.wav
+927,427,0.2610231041908264,True,yes,1,0b09edd3_nohash_0.wav
+928,428,0.24941284954547882,True,yes,1,0b09edd3_nohash_0.wav
+929,429,0.2322743535041809,True,yes,1,0b09edd3_nohash_0.wav
+930,430,0.24645820260047913,True,yes,1,0b09edd3_nohash_0.wav
+931,431,0.273979127407074,True,yes,1,0b09edd3_nohash_0.wav
+932,432,0.24708622694015503,True,yes,1,0b09edd3_nohash_0.wav
+933,433,0.2673809826374054,True,yes,1,0b09edd3_nohash_0.wav
+934,434,0.25738561153411865,True,yes,1,0b09edd3_nohash_0.wav
+935,435,0.2730429172515869,True,yes,1,0b09edd3_nohash_0.wav
+936,436,0.2671539783477783,True,yes,1,0b09edd3_nohash_0.wav
+937,437,0.2708822190761566,True,yes,1,0b09edd3_nohash_0.wav
+938,438,0.273867666721344,True,yes,1,0b09edd3_nohash_0.wav
+939,439,0.23446670174598694,True,yes,1,0b09edd3_nohash_0.wav
+940,440,0.27331385016441345,True,yes,1,0b09edd3_nohash_0.wav
+941,441,0.2729489505290985,True,yes,1,0b09edd3_nohash_0.wav
+942,442,0.26876023411750793,True,yes,1,0b09edd3_nohash_0.wav
+943,443,0.2589769959449768,True,yes,1,0b09edd3_nohash_0.wav
+944,444,0.2991047501564026,True,yes,1,0b09edd3_nohash_0.wav
+945,445,0.298552006483078,True,yes,1,0b09edd3_nohash_0.wav
+946,446,0.246404767036438,True,yes,1,0b09edd3_nohash_0.wav
+947,447,0.2758384943008423,True,yes,1,0b09edd3_nohash_0.wav
+948,448,0.3084857165813446,True,yes,1,0b09edd3_nohash_0.wav
+949,449,0.27069148421287537,True,yes,1,0b09edd3_nohash_0.wav
+950,450,0.31432637572288513,True,yes,1,0b09edd3_nohash_0.wav
+951,451,0.2778221070766449,True,yes,1,0b09edd3_nohash_0.wav
+952,452,0.28724467754364014,True,yes,1,0b09edd3_nohash_0.wav
+953,453,0.2731766104698181,True,yes,1,0b09edd3_nohash_0.wav
+954,454,0.27733373641967773,True,yes,1,0b09edd3_nohash_0.wav
+955,455,0.3042435050010681,True,yes,1,0b09edd3_nohash_0.wav
+956,456,0.3021987974643707,True,yes,1,0b09edd3_nohash_0.wav
+957,457,0.30667877197265625,True,yes,1,0b09edd3_nohash_0.wav
+958,458,0.2900545299053192,True,yes,1,0b09edd3_nohash_0.wav
+959,459,0.30066436529159546,True,yes,1,0b09edd3_nohash_0.wav
+960,460,0.30795833468437195,True,yes,1,0b09edd3_nohash_0.wav
+961,461,0.2869448959827423,True,yes,1,0b09edd3_nohash_0.wav
+962,462,0.2845383882522583,True,yes,1,0b09edd3_nohash_0.wav
+963,463,0.312492698431015,True,yes,1,0b09edd3_nohash_0.wav
+964,464,0.31386643648147583,True,yes,1,0b09edd3_nohash_0.wav
+965,465,0.29246553778648376,True,yes,1,0b09edd3_nohash_0.wav
+966,466,0.3114617168903351,True,yes,1,0b09edd3_nohash_0.wav
+967,467,0.307792067527771,True,yes,1,0b09edd3_nohash_0.wav
+968,468,0.3060329854488373,True,yes,1,0b09edd3_nohash_0.wav
+969,469,0.3120863437652588,True,yes,1,0b09edd3_nohash_0.wav
+970,470,0.2901584506034851,True,yes,1,0b09edd3_nohash_0.wav
+971,471,0.31130310893058777,True,yes,1,0b09edd3_nohash_0.wav
+972,472,0.31010013818740845,True,yes,1,0b09edd3_nohash_0.wav
+973,473,0.3348039388656616,True,yes,1,0b09edd3_nohash_0.wav
+974,474,0.30125975608825684,True,yes,1,0b09edd3_nohash_0.wav
+975,475,0.29417482018470764,True,yes,1,0b09edd3_nohash_0.wav
+976,476,0.3409636914730072,True,yes,1,0b09edd3_nohash_0.wav
+977,477,0.3204911947250366,True,yes,1,0b09edd3_nohash_0.wav
+978,478,0.3328173756599426,True,yes,1,0b09edd3_nohash_0.wav
+979,479,0.33536842465400696,True,yes,1,0b09edd3_nohash_0.wav
+980,480,0.3321329653263092,True,yes,1,0b09edd3_nohash_0.wav
+981,481,0.31768882274627686,True,yes,1,0b09edd3_nohash_0.wav
+982,482,0.28231194615364075,True,yes,1,0b09edd3_nohash_0.wav
+983,483,0.3377993404865265,True,yes,1,0b09edd3_nohash_0.wav
+984,484,0.3290446698665619,True,yes,1,0b09edd3_nohash_0.wav
+985,485,0.3360329866409302,True,yes,1,0b09edd3_nohash_0.wav
+986,486,0.3372191786766052,True,yes,1,0b09edd3_nohash_0.wav
+987,487,0.348225474357605,True,yes,1,0b09edd3_nohash_0.wav
+988,488,0.3215751349925995,True,yes,1,0b09edd3_nohash_0.wav
+989,489,0.32971423864364624,True,yes,1,0b09edd3_nohash_0.wav
+990,490,0.32241588830947876,True,yes,1,0b09edd3_nohash_0.wav
+991,491,0.3305737376213074,True,yes,1,0b09edd3_nohash_0.wav
+992,492,0.3369087874889374,True,yes,1,0b09edd3_nohash_0.wav
+993,493,0.35254523158073425,True,yes,1,0b09edd3_nohash_0.wav
+994,494,0.33636319637298584,True,yes,1,0b09edd3_nohash_0.wav
+995,495,0.3373457193374634,True,yes,1,0b09edd3_nohash_0.wav
+996,496,0.31893378496170044,True,yes,1,0b09edd3_nohash_0.wav
+997,497,0.3421555161476135,True,yes,1,0b09edd3_nohash_0.wav
+998,498,0.3504563868045807,True,yes,1,0b09edd3_nohash_0.wav
+999,499,0.3487875461578369,True,yes,1,0b09edd3_nohash_0.wav
+1000,0,0.04208655655384064,False,yes,1,0a7c2a8d_nohash_0.wav
+1001,1,0.025849100202322006,False,yes,1,0a7c2a8d_nohash_0.wav
+1002,2,0.046767089515924454,False,yes,1,0a7c2a8d_nohash_0.wav
+1003,3,0.042650360614061356,False,yes,1,0a7c2a8d_nohash_0.wav
+1004,4,0.03592173382639885,False,yes,1,0a7c2a8d_nohash_0.wav
+1005,5,0.05057549104094505,False,yes,1,0a7c2a8d_nohash_0.wav
+1006,6,0.05221586301922798,False,yes,1,0a7c2a8d_nohash_0.wav
+1007,7,0.050937362015247345,False,yes,1,0a7c2a8d_nohash_0.wav
+1008,8,0.04523152858018875,False,yes,1,0a7c2a8d_nohash_0.wav
+1009,9,0.06871046125888824,False,yes,1,0a7c2a8d_nohash_0.wav
+1010,10,0.062362562865018845,False,yes,1,0a7c2a8d_nohash_0.wav
+1011,11,0.05523021146655083,False,yes,1,0a7c2a8d_nohash_0.wav
+1012,12,0.06086163595318794,False,yes,1,0a7c2a8d_nohash_0.wav
+1013,13,0.07161733508110046,False,yes,1,0a7c2a8d_nohash_0.wav
+1014,14,0.05573028326034546,False,yes,1,0a7c2a8d_nohash_0.wav
+1015,15,0.05787205323576927,False,yes,1,0a7c2a8d_nohash_0.wav
+1016,16,0.0668722465634346,False,yes,1,0a7c2a8d_nohash_0.wav
+1017,17,0.07738694548606873,False,yes,1,0a7c2a8d_nohash_0.wav
+1018,18,0.07179304212331772,False,yes,1,0a7c2a8d_nohash_0.wav
+1019,19,0.04855407774448395,False,yes,1,0a7c2a8d_nohash_0.wav
+1020,20,0.06572389602661133,False,yes,1,0a7c2a8d_nohash_0.wav
+1021,21,0.06906674802303314,False,yes,1,0a7c2a8d_nohash_0.wav
+1022,22,0.06301962584257126,False,yes,1,0a7c2a8d_nohash_0.wav
+1023,23,0.0848146602511406,False,yes,1,0a7c2a8d_nohash_0.wav
+1024,24,0.07664258033037186,False,yes,1,0a7c2a8d_nohash_0.wav
+1025,25,0.07915215194225311,False,yes,1,0a7c2a8d_nohash_0.wav
+1026,26,0.08147671818733215,False,yes,1,0a7c2a8d_nohash_0.wav
+1027,27,0.03936880826950073,False,yes,1,0a7c2a8d_nohash_0.wav
+1028,28,0.05987923592329025,False,yes,1,0a7c2a8d_nohash_0.wav
+1029,29,0.07792454957962036,False,yes,1,0a7c2a8d_nohash_0.wav
+1030,30,0.08371057361364365,False,yes,1,0a7c2a8d_nohash_0.wav
+1031,31,0.09395615756511688,False,yes,1,0a7c2a8d_nohash_0.wav
+1032,32,0.0447513610124588,False,yes,1,0a7c2a8d_nohash_0.wav
+1033,33,0.06463081389665604,False,yes,1,0a7c2a8d_nohash_0.wav
+1034,34,0.07158493995666504,False,yes,1,0a7c2a8d_nohash_0.wav
+1035,35,0.08375098556280136,False,yes,1,0a7c2a8d_nohash_0.wav
+1036,36,0.06559213250875473,False,yes,1,0a7c2a8d_nohash_0.wav
+1037,37,0.08798952400684357,False,yes,1,0a7c2a8d_nohash_0.wav
+1038,38,0.0748833641409874,False,yes,1,0a7c2a8d_nohash_0.wav
+1039,39,0.06327491998672485,False,yes,1,0a7c2a8d_nohash_0.wav
+1040,40,0.10004223883152008,False,yes,1,0a7c2a8d_nohash_0.wav
+1041,41,0.09933214634656906,False,yes,1,0a7c2a8d_nohash_0.wav
+1042,42,0.0774683728814125,False,yes,1,0a7c2a8d_nohash_0.wav
+1043,43,0.08451202511787415,False,yes,1,0a7c2a8d_nohash_0.wav
+1044,44,0.06925633549690247,False,yes,1,0a7c2a8d_nohash_0.wav
+1045,45,0.08942130953073502,False,yes,1,0a7c2a8d_nohash_0.wav
+1046,46,0.10025802999734879,False,yes,1,0a7c2a8d_nohash_0.wav
+1047,47,0.08858302235603333,False,yes,1,0a7c2a8d_nohash_0.wav
+1048,48,0.09883113950490952,False,yes,1,0a7c2a8d_nohash_0.wav
+1049,49,0.11297047138214111,False,yes,1,0a7c2a8d_nohash_0.wav
+1050,50,0.09635361284017563,False,yes,1,0a7c2a8d_nohash_0.wav
+1051,51,0.10298392921686172,False,yes,1,0a7c2a8d_nohash_0.wav
+1052,52,0.0795895978808403,False,yes,1,0a7c2a8d_nohash_0.wav
+1053,53,0.09569886326789856,False,yes,1,0a7c2a8d_nohash_0.wav
+1054,54,0.12339435517787933,False,yes,1,0a7c2a8d_nohash_0.wav
+1055,55,0.10546613484621048,False,yes,1,0a7c2a8d_nohash_0.wav
+1056,56,0.1408248394727707,False,yes,1,0a7c2a8d_nohash_0.wav
+1057,57,0.09672041237354279,False,yes,1,0a7c2a8d_nohash_0.wav
+1058,58,0.10747845470905304,False,yes,1,0a7c2a8d_nohash_0.wav
+1059,59,0.0669948160648346,False,yes,1,0a7c2a8d_nohash_0.wav
+1060,60,0.15543369948863983,False,yes,1,0a7c2a8d_nohash_0.wav
+1061,61,0.06804318726062775,False,yes,1,0a7c2a8d_nohash_0.wav
+1062,62,0.13109952211380005,False,yes,1,0a7c2a8d_nohash_0.wav
+1063,63,0.1469426453113556,False,yes,1,0a7c2a8d_nohash_0.wav
+1064,64,0.12980243563652039,False,yes,1,0a7c2a8d_nohash_0.wav
+1065,65,0.12398040294647217,False,yes,1,0a7c2a8d_nohash_0.wav
+1066,66,0.1387287825345993,False,yes,1,0a7c2a8d_nohash_0.wav
+1067,67,0.11595585942268372,False,yes,1,0a7c2a8d_nohash_0.wav
+1068,68,0.1255800724029541,False,yes,1,0a7c2a8d_nohash_0.wav
+1069,69,0.13710446655750275,False,yes,1,0a7c2a8d_nohash_0.wav
+1070,70,0.14467351138591766,False,yes,1,0a7c2a8d_nohash_0.wav
+1071,71,0.13359712064266205,False,yes,1,0a7c2a8d_nohash_0.wav
+1072,72,0.12487123161554337,False,yes,1,0a7c2a8d_nohash_0.wav
+1073,73,0.15779191255569458,False,yes,1,0a7c2a8d_nohash_0.wav
+1074,74,0.12435391545295715,False,yes,1,0a7c2a8d_nohash_0.wav
+1075,75,0.19942955672740936,False,yes,1,0a7c2a8d_nohash_0.wav
+1076,76,0.13388574123382568,False,yes,1,0a7c2a8d_nohash_0.wav
+1077,77,0.13324891030788422,False,yes,1,0a7c2a8d_nohash_0.wav
+1078,78,0.13388364017009735,False,yes,1,0a7c2a8d_nohash_0.wav
+1079,79,0.1289874017238617,False,yes,1,0a7c2a8d_nohash_0.wav
+1080,80,0.20404016971588135,False,yes,1,0a7c2a8d_nohash_0.wav
+1081,81,0.1477271467447281,False,yes,1,0a7c2a8d_nohash_0.wav
+1082,82,0.1934095174074173,False,yes,1,0a7c2a8d_nohash_0.wav
+1083,83,0.07787739485502243,False,yes,1,0a7c2a8d_nohash_0.wav
+1084,84,0.10392913222312927,False,yes,1,0a7c2a8d_nohash_0.wav
+1085,85,0.22036829590797424,False,yes,1,0a7c2a8d_nohash_0.wav
+1086,86,0.18418389558792114,False,yes,1,0a7c2a8d_nohash_0.wav
+1087,87,0.16113188862800598,False,yes,1,0a7c2a8d_nohash_0.wav
+1088,88,0.2045961618423462,False,yes,1,0a7c2a8d_nohash_0.wav
+1089,89,0.16296033561229706,False,yes,1,0a7c2a8d_nohash_0.wav
+1090,90,0.15444086492061615,False,yes,1,0a7c2a8d_nohash_0.wav
+1091,91,0.2055121809244156,False,yes,1,0a7c2a8d_nohash_0.wav
+1092,92,0.13236644864082336,False,yes,1,0a7c2a8d_nohash_0.wav
+1093,93,0.1728457361459732,False,yes,1,0a7c2a8d_nohash_0.wav
+1094,94,0.1913081556558609,False,yes,1,0a7c2a8d_nohash_0.wav
+1095,95,0.20382452011108398,False,yes,1,0a7c2a8d_nohash_0.wav
+1096,96,0.19696049392223358,False,yes,1,0a7c2a8d_nohash_0.wav
+1097,97,0.18699803948402405,False,yes,1,0a7c2a8d_nohash_0.wav
+1098,98,0.20617841184139252,False,yes,1,0a7c2a8d_nohash_0.wav
+1099,99,0.20802035927772522,False,yes,1,0a7c2a8d_nohash_0.wav
+1100,100,0.20427721738815308,False,yes,1,0a7c2a8d_nohash_0.wav
+1101,101,0.17610712349414825,False,yes,1,0a7c2a8d_nohash_0.wav
+1102,102,0.14296098053455353,False,yes,1,0a7c2a8d_nohash_0.wav
+1103,103,0.21228109300136566,False,yes,1,0a7c2a8d_nohash_0.wav
+1104,104,0.21902893483638763,False,yes,1,0a7c2a8d_nohash_0.wav
+1105,105,0.20938102900981903,False,yes,1,0a7c2a8d_nohash_0.wav
+1106,106,0.21751569211483002,False,yes,1,0a7c2a8d_nohash_0.wav
+1107,107,0.17463244497776031,False,yes,1,0a7c2a8d_nohash_0.wav
+1108,108,0.18825210630893707,False,yes,1,0a7c2a8d_nohash_0.wav
+1109,109,0.1277371048927307,False,yes,1,0a7c2a8d_nohash_0.wav
+1110,110,0.238417848944664,True,yes,1,0a7c2a8d_nohash_0.wav
+1111,111,0.2111635059118271,False,yes,1,0a7c2a8d_nohash_0.wav
+1112,112,0.15040048956871033,False,yes,1,0a7c2a8d_nohash_0.wav
+1113,113,0.22152307629585266,False,yes,1,0a7c2a8d_nohash_0.wav
+1114,114,0.21657681465148926,False,yes,1,0a7c2a8d_nohash_0.wav
+1115,115,0.21183227002620697,False,yes,1,0a7c2a8d_nohash_0.wav
+1116,116,0.21324966847896576,False,yes,1,0a7c2a8d_nohash_0.wav
+1117,117,0.2054092288017273,False,yes,1,0a7c2a8d_nohash_0.wav
+1118,118,0.17639802396297455,False,yes,1,0a7c2a8d_nohash_0.wav
+1119,119,0.21884122490882874,False,yes,1,0a7c2a8d_nohash_0.wav
+1120,120,0.21982578933238983,False,yes,1,0a7c2a8d_nohash_0.wav
+1121,121,0.2196475863456726,False,yes,1,0a7c2a8d_nohash_0.wav
+1122,122,0.16620373725891113,False,yes,1,0a7c2a8d_nohash_0.wav
+1123,123,0.25683465600013733,True,yes,1,0a7c2a8d_nohash_0.wav
+1124,124,0.19367343187332153,False,yes,1,0a7c2a8d_nohash_0.wav
+1125,125,0.2464330643415451,True,yes,1,0a7c2a8d_nohash_0.wav
+1126,126,0.22069035470485687,False,yes,1,0a7c2a8d_nohash_0.wav
+1127,127,0.17850154638290405,False,yes,1,0a7c2a8d_nohash_0.wav
+1128,128,0.2257353663444519,True,yes,1,0a7c2a8d_nohash_0.wav
+1129,129,0.23565006256103516,True,yes,1,0a7c2a8d_nohash_0.wav
+1130,130,0.26647087931632996,True,yes,1,0a7c2a8d_nohash_0.wav
+1131,131,0.23022569715976715,False,yes,1,0a7c2a8d_nohash_0.wav
+1132,132,0.26063072681427,True,yes,1,0a7c2a8d_nohash_0.wav
+1133,133,0.22412334382534027,True,yes,1,0a7c2a8d_nohash_0.wav
+1134,134,0.22296568751335144,False,yes,1,0a7c2a8d_nohash_0.wav
+1135,135,0.26397058367729187,True,yes,1,0a7c2a8d_nohash_0.wav
+1136,136,0.1984979808330536,False,yes,1,0a7c2a8d_nohash_0.wav
+1137,137,0.26212120056152344,True,yes,1,0a7c2a8d_nohash_0.wav
+1138,138,0.2807241678237915,True,yes,1,0a7c2a8d_nohash_0.wav
+1139,139,0.23854942619800568,True,yes,1,0a7c2a8d_nohash_0.wav
+1140,140,0.10459893196821213,False,yes,1,0a7c2a8d_nohash_0.wav
+1141,141,0.2780996263027191,True,yes,1,0a7c2a8d_nohash_0.wav
+1142,142,0.18457262217998505,False,yes,1,0a7c2a8d_nohash_0.wav
+1143,143,0.2587014138698578,True,yes,1,0a7c2a8d_nohash_0.wav
+1144,144,0.2654562294483185,True,yes,1,0a7c2a8d_nohash_0.wav
+1145,145,0.26550132036209106,True,yes,1,0a7c2a8d_nohash_0.wav
+1146,146,0.21264764666557312,False,yes,1,0a7c2a8d_nohash_0.wav
+1147,147,0.2393508404493332,False,yes,1,0a7c2a8d_nohash_0.wav
+1148,148,0.20408926904201508,False,yes,1,0a7c2a8d_nohash_0.wav
+1149,149,0.23814421892166138,False,yes,1,0a7c2a8d_nohash_0.wav
+1150,150,0.2433885931968689,False,yes,1,0a7c2a8d_nohash_0.wav
+1151,151,0.27604940533638,True,yes,1,0a7c2a8d_nohash_0.wav
+1152,152,0.28688520193099976,True,yes,1,0a7c2a8d_nohash_0.wav
+1153,153,0.25357818603515625,False,yes,1,0a7c2a8d_nohash_0.wav
+1154,154,0.2791678309440613,True,yes,1,0a7c2a8d_nohash_0.wav
+1155,155,0.21693457663059235,False,yes,1,0a7c2a8d_nohash_0.wav
+1156,156,0.25819942355155945,True,yes,1,0a7c2a8d_nohash_0.wav
+1157,157,0.23536266386508942,True,yes,1,0a7c2a8d_nohash_0.wav
+1158,158,0.286945641040802,True,yes,1,0a7c2a8d_nohash_0.wav
+1159,159,0.21141894161701202,False,yes,1,0a7c2a8d_nohash_0.wav
+1160,160,0.2533981204032898,True,yes,1,0a7c2a8d_nohash_0.wav
+1161,161,0.27721330523490906,True,yes,1,0a7c2a8d_nohash_0.wav
+1162,162,0.18118363618850708,False,yes,1,0a7c2a8d_nohash_0.wav
+1163,163,0.28441837430000305,True,yes,1,0a7c2a8d_nohash_0.wav
+1164,164,0.29295340180397034,True,yes,1,0a7c2a8d_nohash_0.wav
+1165,165,0.28356993198394775,True,yes,1,0a7c2a8d_nohash_0.wav
+1166,166,0.2976132929325104,True,yes,1,0a7c2a8d_nohash_0.wav
+1167,167,0.27922213077545166,True,yes,1,0a7c2a8d_nohash_0.wav
+1168,168,0.32854604721069336,True,yes,1,0a7c2a8d_nohash_0.wav
+1169,169,0.26574912667274475,True,yes,1,0a7c2a8d_nohash_0.wav
+1170,170,0.2744176983833313,True,yes,1,0a7c2a8d_nohash_0.wav
+1171,171,0.2809807360172272,True,yes,1,0a7c2a8d_nohash_0.wav
+1172,172,0.16658169031143188,False,yes,1,0a7c2a8d_nohash_0.wav
+1173,173,0.22530145943164825,False,yes,1,0a7c2a8d_nohash_0.wav
+1174,174,0.28839510679244995,True,yes,1,0a7c2a8d_nohash_0.wav
+1175,175,0.17386676371097565,False,yes,1,0a7c2a8d_nohash_0.wav
+1176,176,0.28683289885520935,True,yes,1,0a7c2a8d_nohash_0.wav
+1177,177,0.27749931812286377,True,yes,1,0a7c2a8d_nohash_0.wav
+1178,178,0.277254581451416,True,yes,1,0a7c2a8d_nohash_0.wav
+1179,179,0.23563870787620544,False,yes,1,0a7c2a8d_nohash_0.wav
+1180,180,0.3019324243068695,True,yes,1,0a7c2a8d_nohash_0.wav
+1181,181,0.2823399603366852,True,yes,1,0a7c2a8d_nohash_0.wav
+1182,182,0.19544047117233276,False,yes,1,0a7c2a8d_nohash_0.wav
+1183,183,0.2924102246761322,True,yes,1,0a7c2a8d_nohash_0.wav
+1184,184,0.3177031874656677,True,yes,1,0a7c2a8d_nohash_0.wav
+1185,185,0.3142533302307129,True,yes,1,0a7c2a8d_nohash_0.wav
+1186,186,0.3134635090827942,True,yes,1,0a7c2a8d_nohash_0.wav
+1187,187,0.31290122866630554,True,yes,1,0a7c2a8d_nohash_0.wav
+1188,188,0.3166322410106659,True,yes,1,0a7c2a8d_nohash_0.wav
+1189,189,0.19402055442333221,False,yes,1,0a7c2a8d_nohash_0.wav
+1190,190,0.33035510778427124,True,yes,1,0a7c2a8d_nohash_0.wav
+1191,191,0.35119134187698364,True,yes,1,0a7c2a8d_nohash_0.wav
+1192,192,0.3320061266422272,True,yes,1,0a7c2a8d_nohash_0.wav
+1193,193,0.2815157175064087,True,yes,1,0a7c2a8d_nohash_0.wav
+1194,194,0.3244372606277466,True,yes,1,0a7c2a8d_nohash_0.wav
+1195,195,0.31326866149902344,True,yes,1,0a7c2a8d_nohash_0.wav
+1196,196,0.2864408493041992,True,yes,1,0a7c2a8d_nohash_0.wav
+1197,197,0.3423391282558441,True,yes,1,0a7c2a8d_nohash_0.wav
+1198,198,0.30938416719436646,True,yes,1,0a7c2a8d_nohash_0.wav
+1199,199,0.31997525691986084,True,yes,1,0a7c2a8d_nohash_0.wav
+1200,200,0.2844249904155731,True,yes,1,0a7c2a8d_nohash_0.wav
+1201,201,0.31127187609672546,True,yes,1,0a7c2a8d_nohash_0.wav
+1202,202,0.31698593497276306,True,yes,1,0a7c2a8d_nohash_0.wav
+1203,203,0.27783820033073425,True,yes,1,0a7c2a8d_nohash_0.wav
+1204,204,0.3505212068557739,True,yes,1,0a7c2a8d_nohash_0.wav
+1205,205,0.3116074800491333,True,yes,1,0a7c2a8d_nohash_0.wav
+1206,206,0.3265892565250397,True,yes,1,0a7c2a8d_nohash_0.wav
+1207,207,0.3537517189979553,True,yes,1,0a7c2a8d_nohash_0.wav
+1208,208,0.3379577696323395,True,yes,1,0a7c2a8d_nohash_0.wav
+1209,209,0.3057200014591217,True,yes,1,0a7c2a8d_nohash_0.wav
+1210,210,0.3472255766391754,True,yes,1,0a7c2a8d_nohash_0.wav
+1211,211,0.3472021520137787,True,yes,1,0a7c2a8d_nohash_0.wav
+1212,212,0.1819092184305191,False,yes,1,0a7c2a8d_nohash_0.wav
+1213,213,0.3516281843185425,True,yes,1,0a7c2a8d_nohash_0.wav
+1214,214,0.2981690466403961,True,yes,1,0a7c2a8d_nohash_0.wav
+1215,215,0.28502774238586426,True,yes,1,0a7c2a8d_nohash_0.wav
+1216,216,0.26949891448020935,False,yes,1,0a7c2a8d_nohash_0.wav
+1217,217,0.3485249876976013,True,yes,1,0a7c2a8d_nohash_0.wav
+1218,218,0.2706719636917114,False,yes,1,0a7c2a8d_nohash_0.wav
+1219,219,0.3090539872646332,True,yes,1,0a7c2a8d_nohash_0.wav
+1220,220,0.29102423787117004,True,yes,1,0a7c2a8d_nohash_0.wav
+1221,221,0.3102632761001587,True,yes,1,0a7c2a8d_nohash_0.wav
+1222,222,0.3402164876461029,True,yes,1,0a7c2a8d_nohash_0.wav
+1223,223,0.336945116519928,True,yes,1,0a7c2a8d_nohash_0.wav
+1224,224,0.3595499098300934,True,yes,1,0a7c2a8d_nohash_0.wav
+1225,225,0.32070961594581604,True,yes,1,0a7c2a8d_nohash_0.wav
+1226,226,0.3412000834941864,True,yes,1,0a7c2a8d_nohash_0.wav
+1227,227,0.3575446903705597,True,yes,1,0a7c2a8d_nohash_0.wav
+1228,228,0.26825806498527527,True,yes,1,0a7c2a8d_nohash_0.wav
+1229,229,0.3620794415473938,True,yes,1,0a7c2a8d_nohash_0.wav
+1230,230,0.2645251154899597,True,yes,1,0a7c2a8d_nohash_0.wav
+1231,231,0.3532729744911194,True,yes,1,0a7c2a8d_nohash_0.wav
+1232,232,0.37724724411964417,True,yes,1,0a7c2a8d_nohash_0.wav
+1233,233,0.348810613155365,True,yes,1,0a7c2a8d_nohash_0.wav
+1234,234,0.3612075448036194,True,yes,1,0a7c2a8d_nohash_0.wav
+1235,235,0.37910714745521545,True,yes,1,0a7c2a8d_nohash_0.wav
+1236,236,0.3650817573070526,True,yes,1,0a7c2a8d_nohash_0.wav
+1237,237,0.3783183991909027,True,yes,1,0a7c2a8d_nohash_0.wav
+1238,238,0.3749011158943176,True,yes,1,0a7c2a8d_nohash_0.wav
+1239,239,0.2837079167366028,True,yes,1,0a7c2a8d_nohash_0.wav
+1240,240,0.3636937737464905,True,yes,1,0a7c2a8d_nohash_0.wav
+1241,241,0.35758164525032043,True,yes,1,0a7c2a8d_nohash_0.wav
+1242,242,0.34045517444610596,True,yes,1,0a7c2a8d_nohash_0.wav
+1243,243,0.33207160234451294,True,yes,1,0a7c2a8d_nohash_0.wav
+1244,244,0.39312905073165894,True,yes,1,0a7c2a8d_nohash_0.wav
+1245,245,0.39091846346855164,True,yes,1,0a7c2a8d_nohash_0.wav
+1246,246,0.3941849172115326,True,yes,1,0a7c2a8d_nohash_0.wav
+1247,247,0.32274767756462097,True,yes,1,0a7c2a8d_nohash_0.wav
+1248,248,0.36660274863243103,True,yes,1,0a7c2a8d_nohash_0.wav
+1249,249,0.35867470502853394,True,yes,1,0a7c2a8d_nohash_0.wav
+1250,250,0.38962289690971375,True,yes,1,0a7c2a8d_nohash_0.wav
+1251,251,0.3148651719093323,True,yes,1,0a7c2a8d_nohash_0.wav
+1252,252,0.38115599751472473,True,yes,1,0a7c2a8d_nohash_0.wav
+1253,253,0.3777409493923187,True,yes,1,0a7c2a8d_nohash_0.wav
+1254,254,0.38535308837890625,True,yes,1,0a7c2a8d_nohash_0.wav
+1255,255,0.4027250409126282,True,yes,1,0a7c2a8d_nohash_0.wav
+1256,256,0.40369439125061035,True,yes,1,0a7c2a8d_nohash_0.wav
+1257,257,0.4017113447189331,True,yes,1,0a7c2a8d_nohash_0.wav
+1258,258,0.39434242248535156,True,yes,1,0a7c2a8d_nohash_0.wav
+1259,259,0.30828678607940674,True,yes,1,0a7c2a8d_nohash_0.wav
+1260,260,0.4092225134372711,True,yes,1,0a7c2a8d_nohash_0.wav
+1261,261,0.40166622400283813,True,yes,1,0a7c2a8d_nohash_0.wav
+1262,262,0.4027917981147766,True,yes,1,0a7c2a8d_nohash_0.wav
+1263,263,0.3939055800437927,True,yes,1,0a7c2a8d_nohash_0.wav
+1264,264,0.40441808104515076,True,yes,1,0a7c2a8d_nohash_0.wav
+1265,265,0.4119908809661865,True,yes,1,0a7c2a8d_nohash_0.wav
+1266,266,0.39564746618270874,True,yes,1,0a7c2a8d_nohash_0.wav
+1267,267,0.3978688418865204,True,yes,1,0a7c2a8d_nohash_0.wav
+1268,268,0.4339412748813629,True,yes,1,0a7c2a8d_nohash_0.wav
+1269,269,0.28914251923561096,True,yes,1,0a7c2a8d_nohash_0.wav
+1270,270,0.29585710167884827,True,yes,1,0a7c2a8d_nohash_0.wav
+1271,271,0.3662557005882263,True,yes,1,0a7c2a8d_nohash_0.wav
+1272,272,0.3976292014122009,True,yes,1,0a7c2a8d_nohash_0.wav
+1273,273,0.42011144757270813,True,yes,1,0a7c2a8d_nohash_0.wav
+1274,274,0.38940533995628357,True,yes,1,0a7c2a8d_nohash_0.wav
+1275,275,0.3404143750667572,True,yes,1,0a7c2a8d_nohash_0.wav
+1276,276,0.4049043357372284,True,yes,1,0a7c2a8d_nohash_0.wav
+1277,277,0.43946710228919983,True,yes,1,0a7c2a8d_nohash_0.wav
+1278,278,0.41207292675971985,True,yes,1,0a7c2a8d_nohash_0.wav
+1279,279,0.42968884110450745,True,yes,1,0a7c2a8d_nohash_0.wav
+1280,280,0.43343061208724976,True,yes,1,0a7c2a8d_nohash_0.wav
+1281,281,0.42523714900016785,True,yes,1,0a7c2a8d_nohash_0.wav
+1282,282,0.43019500374794006,True,yes,1,0a7c2a8d_nohash_0.wav
+1283,283,0.44251760840415955,True,yes,1,0a7c2a8d_nohash_0.wav
+1284,284,0.3601381182670593,True,yes,1,0a7c2a8d_nohash_0.wav
+1285,285,0.43918102979660034,True,yes,1,0a7c2a8d_nohash_0.wav
+1286,286,0.37724822759628296,True,yes,1,0a7c2a8d_nohash_0.wav
+1287,287,0.4094504415988922,True,yes,1,0a7c2a8d_nohash_0.wav
+1288,288,0.4002624750137329,True,yes,1,0a7c2a8d_nohash_0.wav
+1289,289,0.439927875995636,True,yes,1,0a7c2a8d_nohash_0.wav
+1290,290,0.23773540556430817,True,yes,1,0a7c2a8d_nohash_0.wav
+1291,291,0.4118081331253052,True,yes,1,0a7c2a8d_nohash_0.wav
+1292,292,0.43464794754981995,True,yes,1,0a7c2a8d_nohash_0.wav
+1293,293,0.33957377076148987,True,yes,1,0a7c2a8d_nohash_0.wav
+1294,294,0.27620288729667664,True,yes,1,0a7c2a8d_nohash_0.wav
+1295,295,0.40066829323768616,True,yes,1,0a7c2a8d_nohash_0.wav
+1296,296,0.4208800792694092,True,yes,1,0a7c2a8d_nohash_0.wav
+1297,297,0.44066405296325684,True,yes,1,0a7c2a8d_nohash_0.wav
+1298,298,0.41073858737945557,True,yes,1,0a7c2a8d_nohash_0.wav
+1299,299,0.4038155674934387,True,yes,1,0a7c2a8d_nohash_0.wav
+1300,300,0.4643320143222809,True,yes,1,0a7c2a8d_nohash_0.wav
+1301,301,0.4395143687725067,True,yes,1,0a7c2a8d_nohash_0.wav
+1302,302,0.36366593837738037,True,yes,1,0a7c2a8d_nohash_0.wav
+1303,303,0.39056211709976196,True,yes,1,0a7c2a8d_nohash_0.wav
+1304,304,0.4305260479450226,True,yes,1,0a7c2a8d_nohash_0.wav
+1305,305,0.27221548557281494,True,yes,1,0a7c2a8d_nohash_0.wav
+1306,306,0.4380491077899933,True,yes,1,0a7c2a8d_nohash_0.wav
+1307,307,0.28557559847831726,True,yes,1,0a7c2a8d_nohash_0.wav
+1308,308,0.4663076102733612,True,yes,1,0a7c2a8d_nohash_0.wav
+1309,309,0.3016859292984009,True,yes,1,0a7c2a8d_nohash_0.wav
+1310,310,0.4408755600452423,True,yes,1,0a7c2a8d_nohash_0.wav
+1311,311,0.44575831294059753,True,yes,1,0a7c2a8d_nohash_0.wav
+1312,312,0.4658164978027344,True,yes,1,0a7c2a8d_nohash_0.wav
+1313,313,0.47500061988830566,True,yes,1,0a7c2a8d_nohash_0.wav
+1314,314,0.450182169675827,True,yes,1,0a7c2a8d_nohash_0.wav
+1315,315,0.2934238016605377,True,yes,1,0a7c2a8d_nohash_0.wav
+1316,316,0.4839474558830261,True,yes,1,0a7c2a8d_nohash_0.wav
+1317,317,0.31340137124061584,True,yes,1,0a7c2a8d_nohash_0.wav
+1318,318,0.4506112039089203,True,yes,1,0a7c2a8d_nohash_0.wav
+1319,319,0.43782299757003784,True,yes,1,0a7c2a8d_nohash_0.wav
+1320,320,0.49386993050575256,True,yes,1,0a7c2a8d_nohash_0.wav
+1321,321,0.47747427225112915,True,yes,1,0a7c2a8d_nohash_0.wav
+1322,322,0.4373110830783844,True,yes,1,0a7c2a8d_nohash_0.wav
+1323,323,0.3977930545806885,True,yes,1,0a7c2a8d_nohash_0.wav
+1324,324,0.44882234930992126,True,yes,1,0a7c2a8d_nohash_0.wav
+1325,325,0.49433815479278564,True,yes,1,0a7c2a8d_nohash_0.wav
+1326,326,0.4816977381706238,True,yes,1,0a7c2a8d_nohash_0.wav
+1327,327,0.4798758924007416,True,yes,1,0a7c2a8d_nohash_0.wav
+1328,328,0.48625728487968445,True,yes,1,0a7c2a8d_nohash_0.wav
+1329,329,0.48032426834106445,True,yes,1,0a7c2a8d_nohash_0.wav
+1330,330,0.44388335943222046,True,yes,1,0a7c2a8d_nohash_0.wav
+1331,331,0.4675517678260803,True,yes,1,0a7c2a8d_nohash_0.wav
+1332,332,0.43100088834762573,True,yes,1,0a7c2a8d_nohash_0.wav
+1333,333,0.48492157459259033,True,yes,1,0a7c2a8d_nohash_0.wav
+1334,334,0.4819432497024536,True,yes,1,0a7c2a8d_nohash_0.wav
+1335,335,0.5039045810699463,True,yes,1,0a7c2a8d_nohash_0.wav
+1336,336,0.48660025000572205,True,yes,1,0a7c2a8d_nohash_0.wav
+1337,337,0.437228798866272,True,yes,1,0a7c2a8d_nohash_0.wav
+1338,338,0.4521043300628662,True,yes,1,0a7c2a8d_nohash_0.wav
+1339,339,0.3376852571964264,True,yes,1,0a7c2a8d_nohash_0.wav
+1340,340,0.49141767621040344,True,yes,1,0a7c2a8d_nohash_0.wav
+1341,341,0.4986199140548706,True,yes,1,0a7c2a8d_nohash_0.wav
+1342,342,0.4609783887863159,True,yes,1,0a7c2a8d_nohash_0.wav
+1343,343,0.4615076184272766,True,yes,1,0a7c2a8d_nohash_0.wav
+1344,344,0.4093358516693115,True,yes,1,0a7c2a8d_nohash_0.wav
+1345,345,0.48600074648857117,True,yes,1,0a7c2a8d_nohash_0.wav
+1346,346,0.4920550584793091,True,yes,1,0a7c2a8d_nohash_0.wav
+1347,347,0.5228385925292969,True,yes,1,0a7c2a8d_nohash_0.wav
+1348,348,0.4506971538066864,True,yes,1,0a7c2a8d_nohash_0.wav
+1349,349,0.4407274127006531,True,yes,1,0a7c2a8d_nohash_0.wav
+1350,350,0.491111159324646,True,yes,1,0a7c2a8d_nohash_0.wav
+1351,351,0.5033765435218811,True,yes,1,0a7c2a8d_nohash_0.wav
+1352,352,0.4307377338409424,True,yes,1,0a7c2a8d_nohash_0.wav
+1353,353,0.4108674228191376,True,yes,1,0a7c2a8d_nohash_0.wav
+1354,354,0.501449704170227,True,yes,1,0a7c2a8d_nohash_0.wav
+1355,355,0.47480952739715576,True,yes,1,0a7c2a8d_nohash_0.wav
+1356,356,0.48168423771858215,True,yes,1,0a7c2a8d_nohash_0.wav
+1357,357,0.5248638391494751,True,yes,1,0a7c2a8d_nohash_0.wav
+1358,358,0.5233214497566223,True,yes,1,0a7c2a8d_nohash_0.wav
+1359,359,0.43828049302101135,True,yes,1,0a7c2a8d_nohash_0.wav
+1360,360,0.500931978225708,True,yes,1,0a7c2a8d_nohash_0.wav
+1361,361,0.49639788269996643,True,yes,1,0a7c2a8d_nohash_0.wav
+1362,362,0.5292208790779114,True,yes,1,0a7c2a8d_nohash_0.wav
+1363,363,0.5254061818122864,True,yes,1,0a7c2a8d_nohash_0.wav
+1364,364,0.42049986124038696,True,yes,1,0a7c2a8d_nohash_0.wav
+1365,365,0.5361804962158203,True,yes,1,0a7c2a8d_nohash_0.wav
+1366,366,0.5350337028503418,True,yes,1,0a7c2a8d_nohash_0.wav
+1367,367,0.4922051429748535,True,yes,1,0a7c2a8d_nohash_0.wav
+1368,368,0.5136788487434387,True,yes,1,0a7c2a8d_nohash_0.wav
+1369,369,0.4839584231376648,True,yes,1,0a7c2a8d_nohash_0.wav
+1370,370,0.5284098386764526,True,yes,1,0a7c2a8d_nohash_0.wav
+1371,371,0.5407239198684692,True,yes,1,0a7c2a8d_nohash_0.wav
+1372,372,0.5400474071502686,True,yes,1,0a7c2a8d_nohash_0.wav
+1373,373,0.49425530433654785,True,yes,1,0a7c2a8d_nohash_0.wav
+1374,374,0.5083568096160889,True,yes,1,0a7c2a8d_nohash_0.wav
+1375,375,0.34978023171424866,True,yes,1,0a7c2a8d_nohash_0.wav
+1376,376,0.5161663293838501,True,yes,1,0a7c2a8d_nohash_0.wav
+1377,377,0.5086054801940918,True,yes,1,0a7c2a8d_nohash_0.wav
+1378,378,0.5353724360466003,True,yes,1,0a7c2a8d_nohash_0.wav
+1379,379,0.5108451843261719,True,yes,1,0a7c2a8d_nohash_0.wav
+1380,380,0.5766594409942627,True,yes,1,0a7c2a8d_nohash_0.wav
+1381,381,0.5440042614936829,True,yes,1,0a7c2a8d_nohash_0.wav
+1382,382,0.5071337223052979,True,yes,1,0a7c2a8d_nohash_0.wav
+1383,383,0.5375354886054993,True,yes,1,0a7c2a8d_nohash_0.wav
+1384,384,0.5195088386535645,True,yes,1,0a7c2a8d_nohash_0.wav
+1385,385,0.5613560080528259,True,yes,1,0a7c2a8d_nohash_0.wav
+1386,386,0.5720701813697815,True,yes,1,0a7c2a8d_nohash_0.wav
+1387,387,0.5277038812637329,True,yes,1,0a7c2a8d_nohash_0.wav
+1388,388,0.464479923248291,True,yes,1,0a7c2a8d_nohash_0.wav
+1389,389,0.5314444899559021,True,yes,1,0a7c2a8d_nohash_0.wav
+1390,390,0.5484777092933655,True,yes,1,0a7c2a8d_nohash_0.wav
+1391,391,0.5712292790412903,True,yes,1,0a7c2a8d_nohash_0.wav
+1392,392,0.5130856037139893,True,yes,1,0a7c2a8d_nohash_0.wav
+1393,393,0.5747250318527222,True,yes,1,0a7c2a8d_nohash_0.wav
+1394,394,0.5575148463249207,True,yes,1,0a7c2a8d_nohash_0.wav
+1395,395,0.5613476634025574,True,yes,1,0a7c2a8d_nohash_0.wav
+1396,396,0.5221608281135559,True,yes,1,0a7c2a8d_nohash_0.wav
+1397,397,0.5473337173461914,True,yes,1,0a7c2a8d_nohash_0.wav
+1398,398,0.5297643542289734,True,yes,1,0a7c2a8d_nohash_0.wav
+1399,399,0.573019802570343,True,yes,1,0a7c2a8d_nohash_0.wav
+1400,400,0.5367709994316101,True,yes,1,0a7c2a8d_nohash_0.wav
+1401,401,0.5221428871154785,True,yes,1,0a7c2a8d_nohash_0.wav
+1402,402,0.5450624823570251,True,yes,1,0a7c2a8d_nohash_0.wav
+1403,403,0.5710284113883972,True,yes,1,0a7c2a8d_nohash_0.wav
+1404,404,0.5764507055282593,True,yes,1,0a7c2a8d_nohash_0.wav
+1405,405,0.5186084508895874,True,yes,1,0a7c2a8d_nohash_0.wav
+1406,406,0.5276761054992676,True,yes,1,0a7c2a8d_nohash_0.wav
+1407,407,0.5537866950035095,True,yes,1,0a7c2a8d_nohash_0.wav
+1408,408,0.5409424304962158,True,yes,1,0a7c2a8d_nohash_0.wav
+1409,409,0.5173539519309998,True,yes,1,0a7c2a8d_nohash_0.wav
+1410,410,0.5453234314918518,True,yes,1,0a7c2a8d_nohash_0.wav
+1411,411,0.5401557087898254,True,yes,1,0a7c2a8d_nohash_0.wav
+1412,412,0.5376254916191101,True,yes,1,0a7c2a8d_nohash_0.wav
+1413,413,0.5732449889183044,True,yes,1,0a7c2a8d_nohash_0.wav
+1414,414,0.5503134727478027,True,yes,1,0a7c2a8d_nohash_0.wav
+1415,415,0.5661541819572449,True,yes,1,0a7c2a8d_nohash_0.wav
+1416,416,0.3929956257343292,True,yes,1,0a7c2a8d_nohash_0.wav
+1417,417,0.5486869215965271,True,yes,1,0a7c2a8d_nohash_0.wav
+1418,418,0.49929431080818176,True,yes,1,0a7c2a8d_nohash_0.wav
+1419,419,0.5751104950904846,True,yes,1,0a7c2a8d_nohash_0.wav
+1420,420,0.5861051082611084,True,yes,1,0a7c2a8d_nohash_0.wav
+1421,421,0.5773249864578247,True,yes,1,0a7c2a8d_nohash_0.wav
+1422,422,0.4536006450653076,True,yes,1,0a7c2a8d_nohash_0.wav
+1423,423,0.5198605060577393,True,yes,1,0a7c2a8d_nohash_0.wav
+1424,424,0.5794357657432556,True,yes,1,0a7c2a8d_nohash_0.wav
+1425,425,0.5855748653411865,True,yes,1,0a7c2a8d_nohash_0.wav
+1426,426,0.5552734136581421,True,yes,1,0a7c2a8d_nohash_0.wav
+1427,427,0.5681375861167908,True,yes,1,0a7c2a8d_nohash_0.wav
+1428,428,0.5734272599220276,True,yes,1,0a7c2a8d_nohash_0.wav
+1429,429,0.5756837725639343,True,yes,1,0a7c2a8d_nohash_0.wav
+1430,430,0.5916911363601685,True,yes,1,0a7c2a8d_nohash_0.wav
+1431,431,0.4917030930519104,True,yes,1,0a7c2a8d_nohash_0.wav
+1432,432,0.5925005078315735,True,yes,1,0a7c2a8d_nohash_0.wav
+1433,433,0.5818715691566467,True,yes,1,0a7c2a8d_nohash_0.wav
+1434,434,0.5861221551895142,True,yes,1,0a7c2a8d_nohash_0.wav
+1435,435,0.5692565441131592,True,yes,1,0a7c2a8d_nohash_0.wav
+1436,436,0.5910238027572632,True,yes,1,0a7c2a8d_nohash_0.wav
+1437,437,0.582655131816864,True,yes,1,0a7c2a8d_nohash_0.wav
+1438,438,0.5660184621810913,True,yes,1,0a7c2a8d_nohash_0.wav
+1439,439,0.5453076958656311,True,yes,1,0a7c2a8d_nohash_0.wav
+1440,440,0.6021672487258911,True,yes,1,0a7c2a8d_nohash_0.wav
+1441,441,0.582893967628479,True,yes,1,0a7c2a8d_nohash_0.wav
+1442,442,0.5820507407188416,True,yes,1,0a7c2a8d_nohash_0.wav
+1443,443,0.5904535055160522,True,yes,1,0a7c2a8d_nohash_0.wav
+1444,444,0.5971070528030396,True,yes,1,0a7c2a8d_nohash_0.wav
+1445,445,0.5975657105445862,True,yes,1,0a7c2a8d_nohash_0.wav
+1446,446,0.5817673802375793,True,yes,1,0a7c2a8d_nohash_0.wav
+1447,447,0.48985767364501953,True,yes,1,0a7c2a8d_nohash_0.wav
+1448,448,0.5915284156799316,True,yes,1,0a7c2a8d_nohash_0.wav
+1449,449,0.5722007751464844,True,yes,1,0a7c2a8d_nohash_0.wav
+1450,450,0.5074077248573303,True,yes,1,0a7c2a8d_nohash_0.wav
+1451,451,0.6131697297096252,True,yes,1,0a7c2a8d_nohash_0.wav
+1452,452,0.527416467666626,True,yes,1,0a7c2a8d_nohash_0.wav
+1453,453,0.54203200340271,True,yes,1,0a7c2a8d_nohash_0.wav
+1454,454,0.6025741696357727,True,yes,1,0a7c2a8d_nohash_0.wav
+1455,455,0.5760896801948547,True,yes,1,0a7c2a8d_nohash_0.wav
+1456,456,0.6018044352531433,True,yes,1,0a7c2a8d_nohash_0.wav
+1457,457,0.6169881820678711,True,yes,1,0a7c2a8d_nohash_0.wav
+1458,458,0.5921487212181091,True,yes,1,0a7c2a8d_nohash_0.wav
+1459,459,0.5302687883377075,True,yes,1,0a7c2a8d_nohash_0.wav
+1460,460,0.6165895462036133,True,yes,1,0a7c2a8d_nohash_0.wav
+1461,461,0.40550684928894043,True,yes,1,0a7c2a8d_nohash_0.wav
+1462,462,0.587649941444397,True,yes,1,0a7c2a8d_nohash_0.wav
+1463,463,0.5892056226730347,True,yes,1,0a7c2a8d_nohash_0.wav
+1464,464,0.5175309777259827,True,yes,1,0a7c2a8d_nohash_0.wav
+1465,465,0.5093103647232056,True,yes,1,0a7c2a8d_nohash_0.wav
+1466,466,0.45825573801994324,True,yes,1,0a7c2a8d_nohash_0.wav
+1467,467,0.6297769546508789,True,yes,1,0a7c2a8d_nohash_0.wav
+1468,468,0.615709125995636,True,yes,1,0a7c2a8d_nohash_0.wav
+1469,469,0.6091762781143188,True,yes,1,0a7c2a8d_nohash_0.wav
+1470,470,0.5567010045051575,True,yes,1,0a7c2a8d_nohash_0.wav
+1471,471,0.5342646837234497,True,yes,1,0a7c2a8d_nohash_0.wav
+1472,472,0.48420417308807373,True,yes,1,0a7c2a8d_nohash_0.wav
+1473,473,0.6227307319641113,True,yes,1,0a7c2a8d_nohash_0.wav
+1474,474,0.6293176412582397,True,yes,1,0a7c2a8d_nohash_0.wav
+1475,475,0.6131053566932678,True,yes,1,0a7c2a8d_nohash_0.wav
+1476,476,0.6082175970077515,True,yes,1,0a7c2a8d_nohash_0.wav
+1477,477,0.6155994534492493,True,yes,1,0a7c2a8d_nohash_0.wav
+1478,478,0.6379536390304565,True,yes,1,0a7c2a8d_nohash_0.wav
+1479,479,0.6224842071533203,True,yes,1,0a7c2a8d_nohash_0.wav
+1480,480,0.6253376603126526,True,yes,1,0a7c2a8d_nohash_0.wav
+1481,481,0.5993680357933044,True,yes,1,0a7c2a8d_nohash_0.wav
+1482,482,0.6173916459083557,True,yes,1,0a7c2a8d_nohash_0.wav
+1483,483,0.6369439363479614,True,yes,1,0a7c2a8d_nohash_0.wav
+1484,484,0.6275151968002319,True,yes,1,0a7c2a8d_nohash_0.wav
+1485,485,0.6424412131309509,True,yes,1,0a7c2a8d_nohash_0.wav
+1486,486,0.5762761235237122,True,yes,1,0a7c2a8d_nohash_0.wav
+1487,487,0.6347867250442505,True,yes,1,0a7c2a8d_nohash_0.wav
+1488,488,0.6324554681777954,True,yes,1,0a7c2a8d_nohash_0.wav
+1489,489,0.5696017146110535,True,yes,1,0a7c2a8d_nohash_0.wav
+1490,490,0.5821665525436401,True,yes,1,0a7c2a8d_nohash_0.wav
+1491,491,0.6115382313728333,True,yes,1,0a7c2a8d_nohash_0.wav
+1492,492,0.5459515452384949,True,yes,1,0a7c2a8d_nohash_0.wav
+1493,493,0.6280456185340881,True,yes,1,0a7c2a8d_nohash_0.wav
+1494,494,0.6609250903129578,True,yes,1,0a7c2a8d_nohash_0.wav
+1495,495,0.5462093353271484,True,yes,1,0a7c2a8d_nohash_0.wav
+1496,496,0.5488119125366211,True,yes,1,0a7c2a8d_nohash_0.wav
+1497,497,0.6175611019134521,True,yes,1,0a7c2a8d_nohash_0.wav
+1498,498,0.6485745906829834,True,yes,1,0a7c2a8d_nohash_0.wav
+1499,499,0.6600528955459595,True,yes,1,0a7c2a8d_nohash_0.wav
